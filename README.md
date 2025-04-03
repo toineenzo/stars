@@ -38,42 +38,42 @@ Total starred repositories: `242`
 ## Batchfile
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.   | ⭐️129083 |
+| [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.   | ⭐️129229 |
 ## C
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [Aleksoid1978/MPC-BE](https://github.com/Aleksoid1978/MPC-BE) | MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.   | ⭐️2758 |
-| [DS-Homebrew/nds-bootstrap](https://github.com/DS-Homebrew/nds-bootstrap) | Boot an nds file   | ⭐️1226 |
-| [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) | HandBrake's main development repository    | ⭐️19136 |
+| [Aleksoid1978/MPC-BE](https://github.com/Aleksoid1978/MPC-BE) | MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.   | ⭐️2761 |
+| [DS-Homebrew/nds-bootstrap](https://github.com/DS-Homebrew/nds-bootstrap) | Boot an nds file   | ⭐️1227 |
+| [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) | HandBrake's main development repository    | ⭐️19141 |
 | [JeffreyCA/Apollo-ImprovedCustomApi](https://github.com/JeffreyCA/Apollo-ImprovedCustomApi) | Use your own Reddit and Imgur API credentials in Apollo   | ⭐️434 |
-| [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording   | ⭐️63234 |
+| [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording   | ⭐️63258 |
 | [PS3Xploit/PS3HEN](https://github.com/PS3Xploit/PS3HEN) | PS3 Homebrew ENabler [Supports 4.80 - 4.82 OFW / 4.83 - 4.90 HFW]   | ⭐️456 |
-| [reactos/reactos](https://github.com/reactos/reactos) | A free Windows-compatible Operating System   | ⭐️15320 |
+| [reactos/reactos](https://github.com/reactos/reactos) | A free Windows-compatible Operating System   | ⭐️15322 |
 | [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) | SumatraPDF reader   | ⭐️14509 |
-| [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) | This project aims to enhance the working environment on Windows   | ⭐️26638 |
+| [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) | This project aims to enhance the working environment on Windows   | ⭐️26650 |
 ## C#
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
 | [0x5bfa/FluentHub](https://github.com/0x5bfa/FluentHub) | A stylish yet powerful GitHub client for Windows   | ⭐️1148 |
 | [BaselineIT/Zinkuba](https://github.com/BaselineIT/Zinkuba) | Mail Exporter and Importer for IMAP, Exchange, mbox, PST   | ⭐️49 |
-| [cyanfish/naps2](https://github.com/cyanfish/naps2) | Scan documents to PDF and more, as simply as possible.   | ⭐️3181 |
-| [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) | EarTrumpet - Volume Control for Windows   | ⭐️9457 |
-| [files-community/Files](https://github.com/files-community/Files) | A modern file manager that helps users organize their files and folders.   | ⭐️36663 |
-| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System - Server Backend & API   | ⭐️38374 |
-| [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) | Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.   | ⭐️10366 |
-| [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | Remove large amounts of unwanted applications quickly.   | ⭐️14148 |
-| [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) | Looks and smells like Sonarr but made for music.   | ⭐️3991 |
-| [lingarr-translate/lingarr](https://github.com/lingarr-translate/lingarr) | Lingarr is an application that supports both local and SaaS translation services to translate subtitle files into a specified target language. With automated translation options, Lingarr simplifies translating subtitles.   | ⭐️328 |
-| [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) | UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers   | ⭐️15323 |
-| [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) | Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.   | ⭐️4617 |
-| [Radarr/Radarr](https://github.com/Radarr/Radarr) | Movie organizer/manager for usenet and torrent users.   | ⭐️11253 |
-| [Readarr/Readarr](https://github.com/Readarr/Readarr) | Book Manager and Automation (Sonarr for Ebooks)   | ⭐️3118 |
-| [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) | Automatically sync TRaSH Guides to your Sonarr and Radarr instances   | ⭐️1392 |
+| [cyanfish/naps2](https://github.com/cyanfish/naps2) | Scan documents to PDF and more, as simply as possible.   | ⭐️3186 |
+| [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) | EarTrumpet - Volume Control for Windows   | ⭐️9459 |
+| [files-community/Files](https://github.com/files-community/Files) | A modern file manager that helps users organize their files and folders.   | ⭐️36672 |
+| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System - Server Backend & API   | ⭐️38389 |
+| [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) | Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.   | ⭐️10369 |
+| [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | Remove large amounts of unwanted applications quickly.   | ⭐️14156 |
+| [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) | Looks and smells like Sonarr but made for music.   | ⭐️3995 |
+| [lingarr-translate/lingarr](https://github.com/lingarr-translate/lingarr) | Lingarr is an application that supports both local and SaaS translation services to translate subtitle files into a specified target language. With automated translation options, Lingarr simplifies translating subtitles.   | ⭐️329 |
+| [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) | UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers   | ⭐️15341 |
+| [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) | Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.   | ⭐️4622 |
+| [Radarr/Radarr](https://github.com/Radarr/Radarr) | Movie organizer/manager for usenet and torrent users.   | ⭐️11257 |
+| [Readarr/Readarr](https://github.com/Readarr/Readarr) | Book Manager and Automation (Sonarr for Ebooks)   | ⭐️3121 |
+| [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) | Automatically sync TRaSH Guides to your Sonarr and Radarr instances   | ⭐️1393 |
 | [SamuelTulach/VirusTotalUploader](https://github.com/SamuelTulach/VirusTotalUploader) | C# Open-Source Winforms application for uploading files to VirusTotal   | ⭐️1256 |
-| [slskd/slskd](https://github.com/slskd/slskd) | A modern client-server application for the Soulseek file sharing network.   | ⭐️1500 |
-| [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | Smart PVR for newsgroup and bittorrent users.   | ⭐️11576 |
-| [squiggythings/WaveTracker](https://github.com/squiggythings/WaveTracker) | A free and open source music-making software for Windows. Uses wavetable synthesis and sampling to generate sounds.   | ⭐️510 |
-| [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) | Everything integration for the Windows taskbar.   | ⭐️10889 |
+| [slskd/slskd](https://github.com/slskd/slskd) | A modern client-server application for the Soulseek file sharing network.   | ⭐️1504 |
+| [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | Smart PVR for newsgroup and bittorrent users.   | ⭐️11580 |
+| [squiggythings/WaveTracker](https://github.com/squiggythings/WaveTracker) | A free and open source music-making software for Windows. Uses wavetable synthesis and sampling to generate sounds.   | ⭐️511 |
+| [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) | Everything integration for the Windows taskbar.   | ⭐️10892 |
 | [thomst08/requestrr](https://github.com/thomst08/requestrr) | Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Lidarr/Ombi/Overseerr via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quick adaptation for new features as well as new platforms.   | ⭐️305 |
 | [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) | GUI Tool To Remove Ads From Various Places Around Windows 11   | ⭐️7047 |
 | [yoshiask/FluentStore](https://github.com/yoshiask/FluentStore) | A unifying frontend for Windows app stores and package managers   | ⭐️426 |
@@ -81,37 +81,37 @@ Total starred repositories: `242`
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
 | [audacity/audacity](https://github.com/audacity/audacity) | Audio Editor                                        | ⭐️13348 |
-| [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) | Media Player Classic   | ⭐️12348 |
+| [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) | Media Player Classic   | ⭐️12350 |
 | [DatanoiseTV/helm](https://github.com/DatanoiseTV/helm) | Helm - a free polyphonic synth with lots of modulation   | ⭐️5 |
-| [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu) | DSi Menu replacement for DS/DSi/3DS/2DS   | ⭐️3427 |
-| [epoupon/lms](https://github.com/epoupon/lms) | Lightweight Music Server. Access your self-hosted music using a web interface.   | ⭐️1268 |
-| [facebook/react-native](https://github.com/facebook/react-native) | A framework for building native applications using React   | ⭐️121338 |
+| [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu) | DSi Menu replacement for DS/DSi/3DS/2DS   | ⭐️3428 |
+| [epoupon/lms](https://github.com/epoupon/lms) | Lightweight Music Server. Access your self-hosted music using a web interface.   | ⭐️1269 |
+| [facebook/react-native](https://github.com/facebook/react-native) | A framework for building native applications using React   | ⭐️121350 |
 | [irwir/eMule](https://github.com/irwir/eMule) | Continuing development of eMule   | ⭐️1043 |
-| [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) | Jellyfin Desktop Client   | ⭐️3665 |
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | Truly independent web browser   | ⭐️36700 |
-| [M2Team/NanaZip](https://github.com/M2Team/NanaZip) | The 7-Zip derivative intended for the modern Windows experience   | ⭐️10188 |
-| [musescore/MuseScore](https://github.com/musescore/MuseScore) | MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!   | ⭐️12896 |
+| [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) | Jellyfin Desktop Client   | ⭐️3668 |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | Truly independent web browser   | ⭐️36740 |
+| [M2Team/NanaZip](https://github.com/M2Team/NanaZip) | The 7-Zip derivative intended for the modern Windows experience   | ⭐️10194 |
+| [musescore/MuseScore](https://github.com/musescore/MuseScore) | MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!   | ⭐️12898 |
 | [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) | 🎨 A secure boot compatible in-memory UxTheme patcher   | ⭐️2543 |
-| [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) | Notepad++ official repository   | ⭐️24235 |
-| [nzbgetcom/nzbget](https://github.com/nzbgetcom/nzbget) | Efficient usenet downloader   | ⭐️417 |
-| [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | An open source re-implementation of RollerCoaster Tycoon 2 🎢   | ⭐️14181 |
-| [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) | qBittorrent BitTorrent client   | ⭐️30507 |
-| [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) | The customization marketplace for Windows programs: https://windhawk.net/   | ⭐️3267 |
+| [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) | Notepad++ official repository   | ⭐️24239 |
+| [nzbgetcom/nzbget](https://github.com/nzbgetcom/nzbget) | Efficient usenet downloader   | ⭐️419 |
+| [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | An open source re-implementation of RollerCoaster Tycoon 2 🎢   | ⭐️14182 |
+| [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) | qBittorrent BitTorrent client   | ⭐️30511 |
+| [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) | The customization marketplace for Windows programs: https://windhawk.net/   | ⭐️3271 |
 | [salvadorrueda/SerialMP3Player](https://github.com/salvadorrueda/SerialMP3Player) | Arduino Library for Serial MP3 Player  (YX5300 chip)   | ⭐️25 |
-| [vslavik/poedit](https://github.com/vslavik/poedit) | Translations editor for Mac, Windows and Unix   | ⭐️1861 |
-| [Windscribe/Desktop-App](https://github.com/Windscribe/Desktop-App) | Windscribe 2.0 desktop client for Windows, Mac and Linux   | ⭐️697 |
+| [vslavik/poedit](https://github.com/vslavik/poedit) | Translations editor for Mac, Windows and Unix   | ⭐️1862 |
+| [Windscribe/Desktop-App](https://github.com/Windscribe/Desktop-App) | Windscribe 2.0 desktop client for Windows, Mac and Linux   | ⭐️698 |
 ## CSS
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) | A Patch for GIMP 3+ for Photoshop Users   | ⭐️4781 |
+| [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) | A Patch for GIMP 3+ for Photoshop Users   | ⭐️4790 |
 | [greeeen-dev/natsumi-browser](https://github.com/greeeen-dev/natsumi-browser) | A userchrome for Zen Browser that makes things flow.   | ⭐️318 |
 | [zen-browser/theme-store](https://github.com/zen-browser/theme-store) | 🎨 Theme repository for @zen-browser!   | ⭐️220 |
 ## Dart
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [ente-io/ente](https://github.com/ente-io/ente) | End-to-end encrypted platform for photos, videos and 2FA secrets.   | ⭐️18620 |
-| [jagandeepbrar/lunasea](https://github.com/jagandeepbrar/lunasea) | Self-hosted software controller built using Flutter   | ⭐️1402 |
-| [jmshrv/finamp](https://github.com/jmshrv/finamp) | A Jellyfin music client for mobile   | ⭐️2439 |
+| [ente-io/ente](https://github.com/ente-io/ente) | End-to-end encrypted platform for photos, videos and 2FA secrets.   | ⭐️18637 |
+| [jagandeepbrar/lunasea](https://github.com/jagandeepbrar/lunasea) | Self-hosted software controller built using Flutter (*archived*)  | ⭐️1405 |
+| [jmshrv/finamp](https://github.com/jmshrv/finamp) | A Jellyfin music client for mobile   | ⭐️2441 |
 ## Dockerfile
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
@@ -119,74 +119,74 @@ Total starred repositories: `242`
 ## Go
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.   | ⭐️26372 |
-| [AlistGo/alist](https://github.com/AlistGo/alist) | 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。   | ⭐️47437 |
-| [autobrr/autobrr](https://github.com/autobrr/autobrr) | Modern, easy to use download automation for torrents and usenet.   | ⭐️1734 |
-| [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) | An implementation of Shazam's song recognition algorithm.   | ⭐️4227 |
+| [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.   | ⭐️26396 |
+| [AlistGo/alist](https://github.com/AlistGo/alist) | 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。   | ⭐️47467 |
+| [autobrr/autobrr](https://github.com/autobrr/autobrr) | Modern, easy to use download automation for torrents and usenet.   | ⭐️1736 |
+| [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) | An implementation of Shazam's song recognition algorithm.   | ⭐️4238 |
 | [dim13/otpauth](https://github.com/dim13/otpauth) | Google Authenticator migration decoder   | ⭐️749 |
 | [dweymouth/supersonic](https://github.com/dweymouth/supersonic) | A lightweight and full-featured cross-platform desktop client for self-hosted music servers   | ⭐️1253 |
-| [navidrome/navidrome](https://github.com/navidrome/navidrome) | 🎧☁️ Your Personal Streaming Service   | ⭐️13799 |
+| [navidrome/navidrome](https://github.com/navidrome/navidrome) | 🎧☁️ Your Personal Streaming Service   | ⭐️13817 |
 ## HTML
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) | A curated list of awesome warez and piracy links.   | ⭐️2206 |
+| [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) | A curated list of awesome warez and piracy links.   | ⭐️2208 |
 ## Java
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework   | ⭐️55959 |
+| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework   | ⭐️55988 |
 | [thargor6/JWildfire](https://github.com/thargor6/JWildfire) | JWildfire - powerful, flexible and user-friendly fractal flame editor   | ⭐️220 |
 ## JavaScript
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
 | [0jscsshtml/Bricksfree](https://github.com/0jscsshtml/Bricksfree) | Bricks Builder Plugin.   | ⭐️10 |
-| [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | :zap: Dynamically generated stats for your github readmes   | ⭐️72278 |
+| [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | :zap: Dynamically generated stats for your github readmes   | ⭐️72310 |
 | [beaugunderson/ZoteroQuickLookNG](https://github.com/beaugunderson/ZoteroQuickLookNG) | Implements QuickLook in Zotero   | ⭐️63 |
 | [Bit-Apps-Pro/bit-integrations](https://github.com/Bit-Apps-Pro/bit-integrations) |    | ⭐️1 |
 | [Bit-Apps-Pro/file-manager](https://github.com/Bit-Apps-Pro/file-manager) |    | ⭐️9 |
 | [bwiernik/zotero-shortdoi](https://github.com/bwiernik/zotero-shortdoi) | Zotero extension to retrieve and validate DOIs and shortDOIs   | ⭐️1397 |
-| [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) | GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude 3.5 — supports local models too   | ⭐️6549 |
-| [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) | Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.   | ⭐️13137 |
+| [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) | GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude 3.5 — supports local models too   | ⭐️6552 |
+| [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) | Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.   | ⭐️13141 |
 | [donn/nudelta](https://github.com/donn/nudelta) | Open source NuPhy Console alternative   | ⭐️544 |
 | [Ewoodss/npo-dl](https://github.com/Ewoodss/npo-dl) | npo start download tool   | ⭐️28 |
-| [facebook/react](https://github.com/facebook/react) | The library for web and native user interfaces.   | ⭐️234005 |
-| [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | The iconic SVG, font, and CSS toolkit   | ⭐️74865 |
-| [gorhill/uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.   | ⭐️52315 |
+| [facebook/react](https://github.com/facebook/react) | The library for web and native user interfaces.   | ⭐️234041 |
+| [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | The iconic SVG, font, and CSS toolkit   | ⭐️74869 |
+| [gorhill/uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.   | ⭐️52356 |
 | [HTTPArchive/wappalyzer](https://github.com/HTTPArchive/wappalyzer) | HTTP Archive fork of Wappalyzer   | ⭐️60 |
-| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories.   | ⭐️81562 |
-| [lowlighter/metrics](https://github.com/lowlighter/metrics) | 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!   | ⭐️14513 |
-| [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) | Tool for deleting all photos from the Google Photos   | ⭐️1295 |
-| [nolimits4web/swiper](https://github.com/nolimits4web/swiper) | Most modern mobile touch slider with hardware accelerated transitions   | ⭐️40741 |
+| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories.   | ⭐️81611 |
+| [lowlighter/metrics](https://github.com/lowlighter/metrics) | 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!   | ⭐️14526 |
+| [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) | Tool for deleting all photos from the Google Photos   | ⭐️1297 |
+| [nolimits4web/swiper](https://github.com/nolimits4web/swiper) | Most modern mobile touch slider with hardware accelerated transitions   | ⭐️40746 |
 | [pressidium/pressidium-cookie-consent](https://github.com/pressidium/pressidium-cookie-consent) | 🍪 Lightweight, user-friendly and customizable cookie consent banner to help you comply with the EU GDPR cookie law and CCPA regulations.   | ⭐️78 |
 | [proelements/proelements](https://github.com/proelements/proelements) | This plugin enables GPL features of Elementor Pro: widgets, theme builder, dynamic colors and content, forms & popup builder, and more.   | ⭐️1194 |
 | [RemiRigal/Overseerr-Assistant](https://github.com/RemiRigal/Overseerr-Assistant) | Browser extension for Overseerr that embeds buttons into IMDb and TMDB web pages to easily request movies and tv shows.   | ⭐️117 |
-| [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) | PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.   | ⭐️6330 |
+| [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) | PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.   | ⭐️6337 |
 | [vibgyj/WPTranslationFiller](https://github.com/vibgyj/WPTranslationFiller) |    | ⭐️14 |
 | [vieira/homebridge-yeelight-wifi](https://github.com/vieira/homebridge-yeelight-wifi) | Homebridge plugin for Yeelight white and colored bulbs.   | ⭐️134 |
-| [WordPress/gutenberg](https://github.com/WordPress/gutenberg) | The Block Editor project for WordPress and beyond. Plugin is available from the official repository.   | ⭐️11025 |
-| [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) | Easily manage the brightness of your monitors in Windows from the system tray   | ⭐️6466 |
-| [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) | Yoast SEO for WordPress   | ⭐️1824 |
-| [zen-browser/desktop](https://github.com/zen-browser/desktop) | A calmer internet, without any gimmicks.   | ⭐️28040 |
-| [zotero/translators](https://github.com/zotero/translators) | Zotero Translators   | ⭐️1390 |
-| [zotero/zotero](https://github.com/zotero/zotero) | Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.   | ⭐️11295 |
+| [WordPress/gutenberg](https://github.com/WordPress/gutenberg) | The Block Editor project for WordPress and beyond. Plugin is available from the official repository.   | ⭐️11027 |
+| [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) | Easily manage the brightness of your monitors in Windows from the system tray   | ⭐️6470 |
+| [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) | Yoast SEO for WordPress   | ⭐️1825 |
+| [zen-browser/desktop](https://github.com/zen-browser/desktop) | A calmer internet, without any gimmicks.   | ⭐️28092 |
+| [zotero/translators](https://github.com/zotero/translators) | Zotero Translators   | ⭐️1391 |
+| [zotero/zotero](https://github.com/zotero/zotero) | Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.   | ⭐️11298 |
 ## Kotlin
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [bitwarden/android](https://github.com/bitwarden/android) | Bitwarden mobile app for Android.   | ⭐️7049 |
-| [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) | SD Maid 2/SE is Android's most thorough cleaning tool.   | ⭐️3315 |
+| [bitwarden/android](https://github.com/bitwarden/android) | Bitwarden mobile app for Android.   | ⭐️7052 |
+| [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) | SD Maid 2/SE is Android's most thorough cleaning tool.   | ⭐️3366 |
 ## Makefile
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) | Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)   | ⭐️3297 |
+| [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) | Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)   | ⭐️3299 |
 | [ProcursusTeam/Procursus](https://github.com/ProcursusTeam/Procursus) | Modern *OS Bootstrap   | ⭐️927 |
 ## Objective-C
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [objective-see/LuLu](https://github.com/objective-see/LuLu) | LuLu is the free open-source macOS firewall   | ⭐️10662 |
+| [objective-see/LuLu](https://github.com/objective-see/LuLu) | LuLu is the free open-source macOS firewall   | ⭐️10670 |
 ## PHP
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
 | [AdvancedCustomFields/acf](https://github.com/AdvancedCustomFields/acf) | Advanced Custom Fields    | ⭐️899 |
-| [afragen/git-updater](https://github.com/afragen/git-updater) | This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes   | ⭐️3233 |
+| [afragen/git-updater](https://github.com/afragen/git-updater) | This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes   | ⭐️3234 |
 | [ampproject/amp-wp](https://github.com/ampproject/amp-wp) | Enable AMP on your WordPress site, the WordPress way.   | ⭐️1799 |
 | [ClassicPress/ClassicPress](https://github.com/ClassicPress/ClassicPress) | The CMS for Creators. Stable. Lightweight. Instantly Familiar. Forked from WordPress.   | ⭐️776 |
 | [CMB2/CMB2](https://github.com/CMB2/CMB2) | CMB2 is a developer's toolkit for building metaboxes, custom fields, and forms for WordPress that will blow your mind.   | ⭐️2971 |
@@ -205,10 +205,10 @@ Total starred repositories: `242`
 | [gravitywiz/snippet-library](https://github.com/gravitywiz/snippet-library) | A library of powerful code snippets to help you get the job done with Gravity Forms and Gravity Perks.   | ⭐️272 |
 | [herbie4/mainwp-check-plugins-vulnerability-extension](https://github.com/herbie4/mainwp-check-plugins-vulnerability-extension) | Extension for MainWP Dashboard. Checks the child websites plugins for vulnerability using the WordFence intelligence api.   | ⭐️8 |
 | [htmlburger/carbon-fields](https://github.com/htmlburger/carbon-fields) | WordPress Custom Fields Library ✨   | ⭐️1443 |
-| [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor) | The developer tools panel for WordPress   | ⭐️1649 |
-| [johnbillion/user-switching](https://github.com/johnbillion/user-switching) | WordPress plugin that provides instant switching between user accounts.   | ⭐️193 |
-| [johnbillion/wp-crontrol](https://github.com/johnbillion/wp-crontrol) | Take control of the cron events on your WordPress website   | ⭐️212 |
-| [koel/koel](https://github.com/koel/koel) | 🐦 A personal music streaming server that works.   | ⭐️16328 |
+| [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor) | The developer tools panel for WordPress   | ⭐️1650 |
+| [johnbillion/user-switching](https://github.com/johnbillion/user-switching) | WordPress plugin that provides instant switching between user accounts.   | ⭐️194 |
+| [johnbillion/wp-crontrol](https://github.com/johnbillion/wp-crontrol) | Take control of the cron events on your WordPress website   | ⭐️213 |
+| [koel/koel](https://github.com/koel/koel) | 🐦 A personal music streaming server that works.   | ⭐️16327 |
 | [krissss/yourls-download-plugin](https://github.com/krissss/yourls-download-plugin) | Yourls Download Plugins   | ⭐️15 |
 | [lammersbjorn/YOURLS-Awin](https://github.com/lammersbjorn/YOURLS-Awin) |    | ⭐️1 |
 | [lammersbjorn/YOURLS-Random-Redirect-Manager](https://github.com/lammersbjorn/YOURLS-Random-Redirect-Manager) |    | ⭐️1 |
@@ -216,22 +216,22 @@ Total starred repositories: `242`
 | [mollie/WooCommerce](https://github.com/mollie/WooCommerce) | Official Mollie extension for WooCommerce   | ⭐️137 |
 | [nosilver4u/ewww-image-optimizer](https://github.com/nosilver4u/ewww-image-optimizer) | Speed up your website and improve your visitors' experience by automatically compressing and resizing images and PDFs. Boost SEO and improve sales.   | ⭐️116 |
 | [patrickkivits/bunq-for-woocommerce](https://github.com/patrickkivits/bunq-for-woocommerce) | Accept payments in your WooCommerce shop with just your bunq account   | ⭐️19 |
-| [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) | The classic email sending library for PHP   | ⭐️21360 |
+| [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) | The classic email sending library for PHP   | ⭐️21362 |
 | [polylang/polylang](https://github.com/polylang/polylang) | WordPress multilingual plugin   | ⭐️360 |
 | [popcorn-time-ru/popcorn-ru](https://github.com/popcorn-time-ru/popcorn-ru) | Multilang api for popcorn   | ⭐️151 |
 | [ProgressPlanner/comment-free-zone](https://github.com/ProgressPlanner/comment-free-zone) | This plugin fully removes comments, trackbacks and all related features from your WordPress site.   | ⭐️1 |
 | [pronamic/advanced-custom-fields-pro](https://github.com/pronamic/advanced-custom-fields-pro) | Advanced Custom Fields Pro, Git-ified. Automatically synced via GitHub Actions! This repository is just a mirror of the Advanced Custom Fields Pro plugin. Please do not send pull requests and issues.   | ⭐️1300 |
 | [rankmath/seo-by-rank-math](https://github.com/rankmath/seo-by-rank-math) | Rank Math is a revolutionary WordPress SEO Plugin that combines the features of many SEO tools and lets you multiply your traffic in the easiest way possible :bulb: :chart_with_upwards_trend: →   | ⭐️115 |
-| [rectorphp/rector](https://github.com/rectorphp/rector) | Instant Upgrades and Automated Refactoring of any PHP 5.3+ code   | ⭐️9472 |
+| [rectorphp/rector](https://github.com/rectorphp/rector) | Instant Upgrades and Automated Refactoring of any PHP 5.3+ code   | ⭐️9473 |
 | [RTO-Websites/dynamic-conditions](https://github.com/RTO-Websites/dynamic-conditions) | A simple plugin to show/hide elementor-widgets based on dynamic tags   | ⭐️55 |
 | [RTO-Websites/dynamic-tags](https://github.com/RTO-Websites/dynamic-tags) | Adds some useful dynamic-tags for elementor   | ⭐️5 |
 | [shlinkio/shlink](https://github.com/shlinkio/shlink) | The definitive self-hosted URL shortener   | ⭐️3746 |
 | [umairahmed17/ACF-Group-Field-Elementor-Tag](https://github.com/umairahmed17/ACF-Group-Field-Elementor-Tag) | Extension for elementor dynamic tag to allow for group   | ⭐️23 |
 | [wearerequired/traduttore](https://github.com/wearerequired/traduttore) | 🗼 A WordPress plugin to improve the I18N workflow for your own projects based on @GlotPress.   | ⭐️74 |
 | [whatwedo/whatwedo-acf-cleaner](https://github.com/whatwedo/whatwedo-acf-cleaner) | WordPres Plugin: Cleanup old metadata created by Advanced Custom Fields   | ⭐️14 |
-| [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) | A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.   | ⭐️9665 |
+| [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) | A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.   | ⭐️9667 |
 | [WordPress/plugin-check](https://github.com/WordPress/plugin-check) | A repository for the new Plugin Check plugin from the WordPress Performance and Plugins Team.   | ⭐️298 |
-| [WordPress/WordPress](https://github.com/WordPress/WordPress) | WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead.   | ⭐️20014 |
+| [WordPress/WordPress](https://github.com/WordPress/WordPress) | WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead.   | ⭐️20016 |
 | [WordPress/wp-consent-level-api](https://github.com/WordPress/wp-consent-level-api) | An API that allows consent management plugins to work together through a standardized interface. Planned for adoption to WordPress Core.   | ⭐️74 |
 | [wp-activators/elementor-pro-activator](https://github.com/wp-activators/elementor-pro-activator) | Elementor Pro Plugin Activator   | ⭐️36 |
 | [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) | ⚙️ WP-CLI framework   | ⭐️4909 |
@@ -241,38 +241,38 @@ Total starred repositories: `242`
 | [wpmetabox/meta-box](https://github.com/wpmetabox/meta-box) | The best plugin for WordPress custom fields and custom meta boxes   | ⭐️1208 |
 | [yadenis/DCO-Comment-Attachment](https://github.com/yadenis/DCO-Comment-Attachment) | Allows your visitors to attach images, videos, audios, documents and other files with their comments. Also they will be able autoembed links from Youtube, Facebook, Twitter and other services in the comment text.   | ⭐️10 |
 | [YOURLS/dont-log-bots](https://github.com/YOURLS/dont-log-bots) | Ignore bot hits in your stats (both click count as seen in the main admin page and in detailed stats)   | ⭐️23 |
-| [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) | 🔗 The de facto standard self hosted URL shortener in PHP   | ⭐️11108 |
+| [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) | 🔗 The de facto standard self hosted URL shortener in PHP   | ⭐️11109 |
 ## Pascal
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) | Cheat Engine. A development environment focused on modding   | ⭐️15886 |
+| [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) | Cheat Engine. A development environment focused on modding   | ⭐️15888 |
 ## PowerShell
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [memstechtips/Winhance](https://github.com/memstechtips/Winhance) | PowerShell GUI application designed to optimize and customize your Windows experience.   | ⭐️2222 |
+| [memstechtips/Winhance](https://github.com/memstechtips/Winhance) | PowerShell GUI application designed to optimize and customize your Windows experience.   | ⭐️2230 |
 | [recyclarr/config-templates](https://github.com/recyclarr/config-templates) | Premade Configuration YAML Files for Recyclarr   | ⭐️138 |
 ## Python
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI   | ⭐️150526 |
-| [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) | BleachBit system cleaner for Windows and Linux   | ⭐️3362 |
-| [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) | Py2/py3 script that can download macOS components direct from Apple   | ⭐️6168 |
-| [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager) | Script that allows to download portable installers of different versions Adobe software for macOS   | ⭐️1441 |
-| [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) | Proxy server to bypass Cloudflare protection   | ⭐️9034 |
-| [Flexget/Flexget](https://github.com/Flexget/Flexget) | The official FlexGet repository   | ⭐️1795 |
-| [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) | The best source for dashboard icons.   | ⭐️5692 |
-| [home-assistant/core](https://github.com/home-assistant/core) | :house_with_garden: Open source home automation that puts local control and privacy first.   | ⭐️77815 |
+| [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI   | ⭐️150577 |
+| [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) | BleachBit system cleaner for Windows and Linux   | ⭐️3364 |
+| [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) | Py2/py3 script that can download macOS components direct from Apple   | ⭐️6169 |
+| [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager) | Script that allows to download portable installers of different versions Adobe software for macOS   | ⭐️1443 |
+| [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) | Proxy server to bypass Cloudflare protection   | ⭐️9036 |
+| [Flexget/Flexget](https://github.com/Flexget/Flexget) | The official FlexGet repository   | ⭐️1797 |
+| [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) | The best source for dashboard icons.   | ⭐️5696 |
+| [home-assistant/core](https://github.com/home-assistant/core) | :house_with_garden: Open source home automation that puts local control and privacy first.   | ⭐️77836 |
 | [lammersbjorn/spotify-to-lastfm](https://github.com/lammersbjorn/spotify-to-lastfm) | Let's you import your Spotify history .json-file into Universal Scrobbler.   | ⭐️2 |
-| [lammersbjorn/spotify-to-plex](https://github.com/lammersbjorn/spotify-to-plex) | Synchronize Spotify playlists to your Plex Media Server automatically.   | ⭐️3 |
-| [ManiMatter/decluttarr](https://github.com/ManiMatter/decluttarr) | Watches radarr, sonarr, lidarr, readarr and whisparr download queues and removes downloads if they become stalled or no longer needed.   | ⭐️438 |
+| [lammersbjorn/spotify-to-plex](https://github.com/lammersbjorn/spotify-to-plex) | Synchronize Spotify playlists to your Plex Media Server automatically.   | ⭐️4 |
+| [ManiMatter/decluttarr](https://github.com/ManiMatter/decluttarr) | Watches radarr, sonarr, lidarr, readarr and whisparr download queues and removes downloads if they become stalled or no longer needed.   | ⭐️439 |
 | [minicoz/nicotine-plus-gluetun-auto-port-set](https://github.com/minicoz/nicotine-plus-gluetun-auto-port-set) | Auto set the listening port on nicotine+ (3.3.7+) from gluetun VPN container.   | ⭐️6 |
 | [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) | Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you.   | ⭐️3124 |
-| [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) | Graphical client for the Soulseek peer-to-peer network   | ⭐️2012 |
-| [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched   | ⭐️26257 |
-| [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) | Deleterr is a Python script designed to help you manage available disk space in your Plex media server.   | ⭐️197 |
+| [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) | Graphical client for the Soulseek peer-to-peer network   | ⭐️2013 |
+| [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched   | ⭐️26349 |
+| [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) | Deleterr is a Python script designed to help you manage available disk space in your Plex media server.   | ⭐️199 |
 | [ShiniGandhi/Backdroppr](https://github.com/ShiniGandhi/Backdroppr) | An automated system to download trailers.   | ⭐️20 |
 | [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) | Allows you easily scan for and delete scam comments using several methods.   | ⭐️4605 |
-| [Zyphra/Zonos](https://github.com/Zyphra/Zonos) | Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers.   | ⭐️6286 |
+| [Zyphra/Zonos](https://github.com/Zyphra/Zonos) | Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers.   | ⭐️6288 |
 ## Rich Text Format
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
@@ -280,13 +280,13 @@ Total starred repositories: `242`
 ## Ruby
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) | 🍻 Default formulae for the missing package manager for macOS (or Linux)   | ⭐️14137 |
+| [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) | 🍻 Default formulae for the missing package manager for macOS (or Linux)   | ⭐️14143 |
 ## Rust
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs   | ⭐️43088 |
+| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs   | ⭐️43119 |
 | [dheijl/swyh-rs](https://github.com/dheijl/swyh-rs) | Stream What You Hear written in rust, inspired by SWYH.   | ⭐️420 |
-| [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) | Upgrade all the things   | ⭐️2324 |
+| [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) | Upgrade all the things   | ⭐️2325 |
 ## SCSS
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
@@ -295,8 +295,8 @@ Total starred repositories: `242`
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
 | [ccarney16/pterodactyl-containers](https://github.com/ccarney16/pterodactyl-containers) | Pterodactyl Panel within a docker container   | ⭐️239 |
-| [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) | Mac setup and configuration via Ansible.   | ⭐️6363 |
-| [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) | 🏳️‍🌈 🏳️‍⚧️ Neofetch with LGBTQ+ pride flags!   | ⭐️1503 |
+| [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) | Mac setup and configuration via Ansible.   | ⭐️6365 |
+| [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) | 🏳️‍🌈 🏳️‍⚧️ Neofetch with LGBTQ+ pride flags!   | ⭐️1505 |
 | [mattmc3/antidote](https://github.com/mattmc3/antidote) | https://antidote.sh - the cure to slow zsh plugin management   | ⭐️1055 |
 | [sirjmann92/nicotineplus-proper](https://github.com/sirjmann92/nicotineplus-proper) | Nicotine+ as a WebUI in a Docker container   | ⭐️63 |
 ## Smarty
@@ -306,58 +306,58 @@ Total starred repositories: `242`
 ## Swift
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) | Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server   | ⭐️744 |
-| [Caldis/Mos](https://github.com/Caldis/Mos) | 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS   | ⭐️16255 |
-| [jordanbaird/Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS   | ⭐️17751 |
+| [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) | Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server   | ⭐️746 |
+| [Caldis/Mos](https://github.com/Caldis/Mos) | 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS   | ⭐️16269 |
+| [jordanbaird/Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS   | ⭐️17773 |
 | [Michael-128/qBitControl](https://github.com/Michael-128/qBitControl) | qBittorrent remote client for iOS devices.   | ⭐️265 |
-| [oxremy/BlinkMore](https://github.com/oxremy/BlinkMore) | free macOS app to help with digital eye strain    | ⭐️63 |
-| [rrroyal/Harbour](https://github.com/rrroyal/Harbour) | Docker/Portainer management app for iOS, iPadOS and macOS.   | ⭐️632 |
-| [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) | A modern Wine wrapper for macOS built with SwiftUI   | ⭐️14247 |
+| [oxremy/BlinkMore](https://github.com/oxremy/BlinkMore) | free macOS app to help with digital eye strain    | ⭐️65 |
+| [rrroyal/Harbour](https://github.com/rrroyal/Harbour) | Docker/Portainer management app for iOS, iPadOS and macOS.   | ⭐️633 |
+| [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) | A modern Wine wrapper for macOS built with SwiftUI   | ⭐️14259 |
 ## TypeScript
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [actions/checkout](https://github.com/actions/checkout) | Action for checking out a repo   | ⭐️6383 |
-| [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) | Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr   | ⭐️1621 |
-| [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) | Chrome extension to return youtube dislikes   | ⭐️13000 |
-| [audioling/audioling](https://github.com/audioling/audioling) | Audio player with a focus on self-hosted music server support   | ⭐️903 |
-| [bitwarden/clients](https://github.com/bitwarden/clients) | Bitwarden client apps (web, browser extension, desktop, and cli).   | ⭐️9966 |
-| [calcom/cal.com](https://github.com/calcom/cal.com) | Scheduling infrastructure for absolutely everyone.   | ⭐️35418 |
+| [actions/checkout](https://github.com/actions/checkout) | Action for checking out a repo   | ⭐️6384 |
+| [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) | Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr   | ⭐️1623 |
+| [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) | Chrome extension to return youtube dislikes   | ⭐️13007 |
+| [audioling/audioling](https://github.com/audioling/audioling) | Audio player with a focus on self-hosted music server support   | ⭐️906 |
+| [bitwarden/clients](https://github.com/bitwarden/clients) | Bitwarden client apps (web, browser extension, desktop, and cli).   | ⭐️9972 |
+| [calcom/cal.com](https://github.com/calcom/cal.com) | Scheduling infrastructure for absolutely everyone.   | ⭐️35437 |
 | [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate) | A plugin that does one thing only: Detect and manage duplicate items in Zotero.   | ⭐️517 |
-| [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) | How smooth scroll should be   | ⭐️10091 |
+| [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) | How smooth scroll should be   | ⭐️10102 |
 | [egoist/whispo](https://github.com/egoist/whispo) | AI-powered dictation tool   | ⭐️357 |
-| [fallenbagel/jellyseerr](https://github.com/fallenbagel/jellyseerr) | Open-source media request and discovery manager for Jellyfin, Plex, and Emby.   | ⭐️4946 |
-| [homarr-labs/homarr](https://github.com/homarr-labs/homarr) | A modern and easy to use dashboard. 14+ integrations. 10K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.   | ⭐️506 |
-| [hydralauncher/hydra](https://github.com/hydralauncher/hydra) | Hydra is a game launcher with its own embedded bittorrent client   | ⭐️12162 |
-| [immich-app/immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution.   | ⭐️62695 |
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world   | ⭐️91496 |
-| [jeffvli/feishin](https://github.com/jeffvli/feishin) | A modern self-hosted music player.   | ⭐️3590 |
+| [fallenbagel/jellyseerr](https://github.com/fallenbagel/jellyseerr) | Open-source media request and discovery manager for Jellyfin, Plex, and Emby.   | ⭐️4959 |
+| [homarr-labs/homarr](https://github.com/homarr-labs/homarr) | A modern and easy to use dashboard. 14+ integrations. 10K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.   | ⭐️510 |
+| [hydralauncher/hydra](https://github.com/hydralauncher/hydra) | Hydra is a game launcher with its own embedded bittorrent client   | ⭐️12169 |
+| [immich-app/immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution.   | ⭐️62758 |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world   | ⭐️91551 |
+| [jeffvli/feishin](https://github.com/jeffvli/feishin) | A modern self-hosted music player.   | ⭐️3593 |
 | [mishamyrt/nuga-app](https://github.com/mishamyrt/nuga-app) | ⌨️ NuPhy® keyboard configurator   | ⭐️52 |
-| [portainer/portainer](https://github.com/portainer/portainer) | Making Docker and Kubernetes management easy.   | ⭐️32503 |
-| [softprops/action-gh-release](https://github.com/softprops/action-gh-release) | 📦 :octocat: GitHub Action for creating GitHub Releases   | ⭐️4608 |
-| [syt2/zotero-addons](https://github.com/syt2/zotero-addons) | Install add-ons directly in Zotero | Zotero Add-on Market  | Zotero插件市场   | ⭐️948 |
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | Building a modern alternative to Salesforce, powered by the community.   | ⭐️27411 |
+| [portainer/portainer](https://github.com/portainer/portainer) | Making Docker and Kubernetes management easy.   | ⭐️32519 |
+| [softprops/action-gh-release](https://github.com/softprops/action-gh-release) | 📦 :octocat: GitHub Action for creating GitHub Releases   | ⭐️4612 |
+| [syt2/zotero-addons](https://github.com/syt2/zotero-addons) | Install add-ons directly in Zotero | Zotero Add-on Market  | Zotero插件市场   | ⭐️950 |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | Building a modern alternative to Salesforce, powered by the community.   | ⭐️27428 |
 ## Unknown
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) | Installer & Activited Microsoft Office For MacOS   | ⭐️3681 |
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers   | ⭐️223028 |
-| [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) | A curated list of free courses with certifications. Also available at https://free-certifications.com/   | ⭐️28818 |
+| [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) | Installer & Activited Microsoft Office For MacOS   | ⭐️3693 |
+| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers   | ⭐️223150 |
+| [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) | A curated list of free courses with certifications. Also available at https://free-certifications.com/   | ⭐️28830 |
 | [dreulavelle/Prowlarr-Indexers](https://github.com/dreulavelle/Prowlarr-Indexers) | Prowlarr Indexers used by Cardigann   | ⭐️141 |
-| [egoist/chatwise-releases](https://github.com/egoist/chatwise-releases) | The fastest AI Chatbot for any LLM   | ⭐️764 |
+| [egoist/chatwise-releases](https://github.com/egoist/chatwise-releases) | The fastest AI Chatbot for any LLM   | ⭐️765 |
 | [egoist/whispo-releases](https://github.com/egoist/whispo-releases) |    | ⭐️3 |
 | [Gcenx/macOS_Wine_builds](https://github.com/Gcenx/macOS_Wine_builds) | Official Winehq macOS Packages   | ⭐️559 |
-| [google/material-design-icons](https://github.com/google/material-design-icons) | Material Design icons by Google (Material Symbols)   | ⭐️51322 |
+| [google/material-design-icons](https://github.com/google/material-design-icons) | Material Design icons by Google (Material Symbols)   | ⭐️51323 |
 | [jackmoore7/tailscale-synology-ssl](https://github.com/jackmoore7/tailscale-synology-ssl) | How to use Tailscale with a custom domain via Cloudflare and reverse proxy on a Synology NAS   | ⭐️41 |
-| [Kegworks-App/Kegworks](https://github.com/Kegworks-App/Kegworks) | A user-friendly tool used to make wine wrapped ports of Windows software for macOS.   | ⭐️608 |
+| [Kegworks-App/Kegworks](https://github.com/Kegworks-App/Kegworks) | A user-friendly tool used to make wine wrapped ports of Windows software for macOS.   | ⭐️610 |
 | [ohmybahgosh/RockYou2021.txt](https://github.com/ohmybahgosh/RockYou2021.txt) | RockYou2021.txt is a MASSIVE WORDLIST compiled of various other wordlists.  RockYou2021.txt DOES NOT CONTAIN USER:PASS logins!     | ⭐️928 |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics   | ⭐️354222 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics   | ⭐️354373 |
 | [toineenzo/stars](https://github.com/toineenzo/stars) | Check out the stars @toineenzo gave   | ⭐️1 |
-| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.   | ⭐️162127 |
-| [yokoffing/filterlists](https://github.com/yokoffing/filterlists) | Collection of blocklists to fill in the gaps   | ⭐️2229 |
+| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.   | ⭐️162219 |
+| [yokoffing/filterlists](https://github.com/yokoffing/filterlists) | Collection of blocklists to fill in the gaps   | ⭐️2230 |
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | 🎉 A curated list of awesome things related to YOURLS   | ⭐️897 |
 ## Vue
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [ccbikai/Sink](https://github.com/ccbikai/Sink) | ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.   | ⭐️4131 |
+| [ccbikai/Sink](https://github.com/ccbikai/Sink) | ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.   | ⭐️4136 |
 | [montoulieu/ableton-live-downloader](https://github.com/montoulieu/ableton-live-downloader) | 🎹 Downloads the desired 64-bit installer from any version of Ableton Live 11, 10, and 9.   | ⭐️43 |
-| [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) | The sleekest looking WEBUI for qBittorrent made with Vuejs!   | ⭐️5639 |
+| [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) | The sleekest looking WEBUI for qBittorrent made with Vuejs!   | ⭐️5642 |
