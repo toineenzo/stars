@@ -49,131 +49,130 @@ Total starred repositories: `580`
 ## Assembly
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [ThirteenAG/GTAIV.EFLC.FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix) | This project aims to fix or address some issues in Grand Theft Auto IV: The Complete Edition   | ⭐️3496 |
+| [ThirteenAG/GTAIV.EFLC.FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix) | This project aims to fix or address some issues in Grand Theft Auto IV: The Complete Edition   | ⭐️3515 |
 ## Batchfile
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [bmrf/tron](https://github.com/bmrf/tron) | Tron   | ⭐️6607 |
-| [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.   | ⭐️198065 |
+| [bmrf/tron](https://github.com/bmrf/tron) | Tron   | ⭐️6609 |
+| [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.   | ⭐️198216 |
 | [wureset-tools/script-wureset](https://github.com/wureset-tools/script-wureset) | This script reset the Windows Update Components.   | ⭐️224 |
 ## C
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [Aleksoid1978/MPC-BE](https://github.com/Aleksoid1978/MPC-BE) | MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.   | ⭐️4684 |
-| [bucanero/apollo-ps4](https://github.com/bucanero/apollo-ps4) | Apollo Save Tool (PS4)   | ⭐️704 |
-| [DS-Homebrew/nds-bootstrap](https://github.com/DS-Homebrew/nds-bootstrap) | Boot an nds file   | ⭐️1411 |
+| [Aleksoid1978/MPC-BE](https://github.com/Aleksoid1978/MPC-BE) | MPC-BE – универсальный проигрыватель аудио и видеофайлов для операционной системы Windows.   | ⭐️4687 |
+| [bucanero/apollo-ps4](https://github.com/bucanero/apollo-ps4) | Apollo Save Tool (PS4)   | ⭐️705 |
+| [DS-Homebrew/nds-bootstrap](https://github.com/DS-Homebrew/nds-bootstrap) | Boot an nds file   | ⭐️1410 |
 | [FreshTomato-Project/freshtomato-ax](https://github.com/FreshTomato-Project/freshtomato-ax) | Alternative open source firmware for Broadcom based routers (*archived*)  | ⭐️19 |
-| [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) | GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic 2D games for better compatibility with Windows ME, 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS/Android) and Virtual Machines   | ⭐️3582 |
-| [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device   | ⭐️154290 |
-| [gnuton/asuswrt-merlin.ng](https://github.com/gnuton/asuswrt-merlin.ng) | Extends the support of  Merlin firmware to more ASUS routers   | ⭐️2396 |
-| [GoldHEN/GoldHEN_Plugins_Repository](https://github.com/GoldHEN/GoldHEN_Plugins_Repository) | Custom Plugins for GoldHEN PS4   | ⭐️280 |
-| [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) | HandBrake's development repository    | ⭐️24920 |
-| [libretro/RetroArch](https://github.com/libretro/RetroArch) | Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.   | ⭐️14556 |
-| [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording   | ⭐️79151 |
-| [php/php-src](https://github.com/php/php-src) | The PHP Interpreter   | ⭐️41763 |
-| [PS3Xploit/PS3HEN](https://github.com/PS3Xploit/PS3HEN) | PS3 Homebrew ENabler [Supports 4.80 - 4.82 OFW / 4.83 - 4.90 HFW]   | ⭐️612 |
-| [reactos/reactos](https://github.com/reactos/reactos) | A free Windows-compatible Operating System   | ⭐️18467 |
+| [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) | GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic 2D games for better compatibility with Windows ME, 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS/Android) and Virtual Machines   | ⭐️3584 |
+| [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device   | ⭐️154384 |
+| [gnuton/asuswrt-merlin.ng](https://github.com/gnuton/asuswrt-merlin.ng) | Extends the support of  Merlin firmware to more ASUS routers   | ⭐️2398 |
+| [GoldHEN/GoldHEN_Plugins_Repository](https://github.com/GoldHEN/GoldHEN_Plugins_Repository) | Custom Plugins for GoldHEN PS4   | ⭐️281 |
+| [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) | HandBrake's development repository    | ⭐️24936 |
+| [libretro/RetroArch](https://github.com/libretro/RetroArch) | Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.   | ⭐️14568 |
+| [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording   | ⭐️79206 |
+| [php/php-src](https://github.com/php/php-src) | The PHP Interpreter   | ⭐️41765 |
+| [PS3Xploit/PS3HEN](https://github.com/PS3Xploit/PS3HEN) | PS3 Homebrew ENabler [Supports 4.80 - 4.82 OFW / 4.83 - 4.90 HFW]   | ⭐️613 |
+| [reactos/reactos](https://github.com/reactos/reactos) | A free Windows-compatible Operating System   | ⭐️18471 |
 | [Scene-Collective/ps4-hen](https://github.com/Scene-Collective/ps4-hen) | Homebrew Enabler for the PlayStation 4   | ⭐️237 |
-| [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) | SumatraPDF reader   | ⭐️17958 |
-| [torvalds/linux](https://github.com/torvalds/linux) | Linux kernel source tree   | ⭐️254810 |
-| [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) | This project aims to enhance the working environment on Windows   | ⭐️34247 |
-| [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) | Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput   | ⭐️17977 |
+| [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) | SumatraPDF reader   | ⭐️17968 |
+| [torvalds/linux](https://github.com/torvalds/linux) | Linux kernel source tree   | ⭐️254933 |
+| [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) | This project aims to enhance the working environment on Windows   | ⭐️34258 |
+| [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) | Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput   | ⭐️18252 |
 ## C#
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
 | [0x5bfa/FluentHub](https://github.com/0x5bfa/FluentHub) | A stylish yet powerful GitHub client for Windows   | ⭐️1263 |
 | [Artemis-RGB/Artemis](https://github.com/Artemis-RGB/Artemis) | Provides advanced unified lighting across many different brands RGB peripherals   | ⭐️1214 |
 | [BaselineIT/Zinkuba](https://github.com/BaselineIT/Zinkuba) | Mail Exporter and Importer for IMAP, Exchange, mbox, PST   | ⭐️53 |
-| [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) | Remove large amounts of unwanted applications quickly.   | ⭐️22333 |
-| [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) | Flyoobe is the Control Panel for setting up Windows   | ⭐️7356 |
-| [Chasmical/flag-emojis-for-windows](https://github.com/Chasmical/flag-emojis-for-windows) | This font adds flag emojis to Windows 8-11, while keeping all Win11's original emojis! 🇬🇧🧑‍💻🇯🇵😎🇰🇷💀🇨🇳🤖🇫🇷✨🇪🇸🐛🇮🇹   | ⭐️274 |
-| [cyanfish/naps2](https://github.com/cyanfish/naps2) | Scan documents to PDF and more, as simply as possible.   | ⭐️4756 |
-| [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) | UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers   | ⭐️26914 |
-| [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) | EarTrumpet - Volume Control for Windows   | ⭐️11532 |
-| [files-community/Files](https://github.com/files-community/Files) | A modern file manager that helps users organize their files and folders.   | ⭐️46535 |
+| [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) | Remove large amounts of unwanted applications quickly.   | ⭐️22351 |
+| [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) | Flyoobe is the Control Panel for setting up Windows   | ⭐️7357 |
+| [Chasmical/flag-emojis-for-windows](https://github.com/Chasmical/flag-emojis-for-windows) | This font adds flag emojis to Windows 8-11, while keeping all Win11's original emojis! 🇬🇧🧑‍💻🇯🇵😎🇰🇷💀🇨🇳🤖🇫🇷✨🇪🇸🐛🇮🇹   | ⭐️273 |
+| [cyanfish/naps2](https://github.com/cyanfish/naps2) | Scan documents to PDF and more, as simply as possible.   | ⭐️4759 |
+| [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) | UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers   | ⭐️26950 |
+| [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) | EarTrumpet - Volume Control for Windows   | ⭐️11536 |
+| [files-community/Files](https://github.com/files-community/Files) | A modern file manager that helps users organize their files and folders.   | ⭐️46551 |
 | [issafram/torrent-ratio-booster](https://github.com/issafram/torrent-ratio-booster) |    | ⭐️12 |
-| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System - Server Backend & API   | ⭐️59119 |
-| [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) | Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.   | ⭐️14477 |
-| [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) | Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.   | ⭐️23886 |
-| [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) | Looks and smells like Sonarr but made for music.   | ⭐️5811 |
+| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System - Server Backend & API   | ⭐️59150 |
+| [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) | Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.   | ⭐️14488 |
+| [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) | Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.   | ⭐️24440 |
+| [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) | Looks and smells like Sonarr but made for music.   | ⭐️5812 |
 | [lin-ycv/EverythingCommandPalette](https://github.com/lin-ycv/EverythingCommandPalette) | Everything search extension for Command Palette   | ⭐️769 |
 | [lingarr-translate/lingarr](https://github.com/lingarr-translate/lingarr) | Lingarr is an application that supports both local and SaaS translation services to translate subtitle files into a specified target language. With automated translation options, Lingarr simplifies translating subtitles.   | ⭐️906 |
-| [memstechtips/Winhance](https://github.com/memstechtips/Winhance) | Application designed to optimize, customize and enhance your Windows experience.   | ⭐️14744 |
+| [memstechtips/Winhance](https://github.com/memstechtips/Winhance) | Application designed to optimize, customize and enhance your Windows experience.   | ⭐️14759 |
 | [mganss/CueGen](https://github.com/mganss/CueGen) | Create Rekordbox cue points from Mixed in Key   | ⭐️157 |
 | [nazuke/SEOMacroscope](https://github.com/nazuke/SEOMacroscope) | SEO Macroscope is a website scanning tool, to check your website for broken links; including some technical SEO functionality, site scraping, Excel reporting, and more.   | ⭐️267 |
-| [PintaProject/Pinta](https://github.com/PintaProject/Pinta) | Simple GTK Paint Program   | ⭐️4133 |
-| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system!   | ⭐️56051 |
-| [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) | Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.   | ⭐️7522 |
-| [Radarr/Radarr](https://github.com/Radarr/Radarr) | Movie organizer/manager for usenet and torrent users.   | ⭐️14729 |
+| [PintaProject/Pinta](https://github.com/PintaProject/Pinta) | Simple GTK Paint Program   | ⭐️4134 |
+| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system!   | ⭐️56068 |
+| [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) | Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.   | ⭐️7525 |
+| [Radarr/Radarr](https://github.com/Radarr/Radarr) | Movie organizer/manager for usenet and torrent users.   | ⭐️14734 |
 | [Readarr/Readarr](https://github.com/Readarr/Readarr) | Book Manager and Automation (Sonarr for Ebooks) (*archived*)  | ⭐️3456 |
-| [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) | Automatically sync TRaSH Guides to your Sonarr and Radarr instances   | ⭐️2150 |
+| [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) | Automatically sync TRaSH Guides to your Sonarr and Radarr instances   | ⭐️2151 |
 | [SamuelTulach/VirusTotalUploader](https://github.com/SamuelTulach/VirusTotalUploader) | C# Open-Source Winforms application for uploading files to VirusTotal   | ⭐️1439 |
 | [sbroenne/mcp-server-obs](https://github.com/sbroenne/mcp-server-obs) | OBS Studio automation for AI assistants - control recordings, streaming, scenes, and window capture via Model Context Protocol   | ⭐️15 |
-| [slskd/slskd](https://github.com/slskd/slskd) | A modern client-server application for the Soulseek file sharing network.   | ⭐️4258 |
-| [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | Smart PVR for newsgroup and bittorrent users.   | ⭐️17602 |
+| [slskd/slskd](https://github.com/slskd/slskd) | A modern client-server application for the Soulseek file sharing network.   | ⭐️4267 |
+| [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | Smart PVR for newsgroup and bittorrent users.   | ⭐️17618 |
 | [squiggythings/WaveTracker](https://github.com/squiggythings/WaveTracker) | A free and open source music-making software for Windows. Uses wavetable synthesis and sampling to generate sounds.   | ⭐️557 |
-| [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) | Everything integration for the Windows taskbar.   | ⭐️15014 |
+| [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) | Everything integration for the Windows taskbar.   | ⭐️15027 |
 | [TheCod3rYouTube/PS5NorModifier](https://github.com/TheCod3rYouTube/PS5NorModifier) | The PS5 Nor Modifier is an easy to use Windows based application to rewrite your PS5 NOR file. This can be useful if your NOR is corrupt, or if you have a disc edition console that needs to be converted to digital in order to bypass the disc drive checks   | ⭐️1086 |
 | [thomst08/requestrr](https://github.com/thomst08/requestrr) | Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Lidarr/Ombi/Overseerr via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quick adaptation for new features as well as new platforms.   | ⭐️489 |
 | [TypeWhisper/typewhisper-win](https://github.com/TypeWhisper/typewhisper-win) | TypeWhisper for Windows - Local speech-to-text with translation   | ⭐️243 |
-| [TypNull/Tubifarry](https://github.com/TypNull/Tubifarry) | Tubifarry is a Lidarr plugin that enhances your music library by fetching music from YouTube, integrating with Slskd for Soulseek access, automating Spotify playlist imports, converting files, and retrieving soundtracks from Radarr and Sonarr.   | ⭐️1083 |
-| [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) | GUI Tool To Remove Ads From Various Places Around Windows 11   | ⭐️7510 |
+| [TypNull/Tubifarry](https://github.com/TypNull/Tubifarry) | Tubifarry is a Lidarr plugin that enhances your music library by fetching music from YouTube, integrating with Slskd for Soulseek access, automating Spotify playlist imports, converting files, and retrieving soundtracks from Radarr and Sonarr.   | ⭐️1085 |
+| [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) | GUI Tool To Remove Ads From Various Places Around Windows 11   | ⭐️7511 |
 | [yoshiask/FluentStore](https://github.com/yoshiask/FluentStore) | A unifying frontend for Windows app stores and package managers   | ⭐️570 |
 ## C++
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
 | [alexandremendoncaalvaro/CorridorKey-Runtime](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) | Native AI keying runtime and OFX plugin for DaVinci Resolve, built in collaboration with Corridor Digital.   | ⭐️784 |
-| [allenk/GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) | Offline Gemini image watermark restoration with reverse alpha blending. Native C++ GUI/CLI, batch processing, and optional GPU denoise.   | ⭐️3135 |
-| [audacity/audacity](https://github.com/audacity/audacity) | Audio Editor                                        | ⭐️18992 |
-| [citizenfx/fivem](https://github.com/citizenfx/fivem) | The source code for the Cfx modification frameworks, such as FiveM and RedM, as well as FXServer.   | ⭐️4314 |
-| [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) | Media Player Classic   | ⭐️16105 |
+| [allenk/GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) | Offline Gemini image watermark restoration with reverse alpha blending. Native C++ GUI/CLI, batch processing, and optional GPU denoise.   | ⭐️3136 |
+| [audacity/audacity](https://github.com/audacity/audacity) | Audio Editor                                        | ⭐️19000 |
+| [citizenfx/fivem](https://github.com/citizenfx/fivem) | The source code for the Cfx modification frameworks, such as FiveM and RedM, as well as FXServer.   | ⭐️4315 |
+| [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) | Media Player Classic   | ⭐️16116 |
 | [DatanoiseTV/helm](https://github.com/DatanoiseTV/helm) | Helm - a free polyphonic synth with lots of modulation   | ⭐️6 |
-| [derpsn/access-virus-ti-revive](https://github.com/derpsn/access-virus-ti-revive) | TI Revive: Total Integration for the Access Virus TI on Windows 11, macOS and Linux - a native Virus Control plug-in and ASIO sound card, without the old Access drivers   | ⭐️42 |
-| [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu) | DSi Menu replacement for DS/DSi/3DS/2DS   | ⭐️4146 |
-| [epoupon/lms](https://github.com/epoupon/lms) | Lightweight Music Server. Access your self-hosted music using a web interface.   | ⭐️1698 |
+| [derpsn/access-virus-ti-revive](https://github.com/derpsn/access-virus-ti-revive) | TI Revive: Total Integration for the Access Virus TI on Windows 11, macOS and Linux - a native Virus Control plug-in and ASIO sound card, without the old Access drivers   | ⭐️47 |
+| [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu) | DSi Menu replacement for DS/DSi/3DS/2DS   | ⭐️4148 |
+| [epoupon/lms](https://github.com/epoupon/lms) | Lightweight Music Server. Access your self-hosted music using a web interface.   | ⭐️1699 |
 | [FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) |    | ⭐️7218 |
 | [groolot/epson-tm-t88v-driver](https://github.com/groolot/epson-tm-t88v-driver) | EPSON Thermal TM-T88V Printer Driver - Issues at   | ⭐️62 |
 | [hrbrmstr/escpos](https://github.com/hrbrmstr/escpos) | R 📦 for printing text, images, and {ggplot2} or {grid} objects to ESC/POS compatible network devices   | ⭐️18 |
-| [imputnet/helium](https://github.com/imputnet/helium) | Private, fast, and honest web browser   | ⭐️22475 |
+| [imputnet/helium](https://github.com/imputnet/helium) | Private, fast, and honest web browser   | ⭐️22515 |
 | [imputnet/helium-macos](https://github.com/imputnet/helium-macos) | Helium Browser for macOS   | ⭐️1183 |
-| [imputnet/helium-windows](https://github.com/imputnet/helium-windows) | Helium Browser for Windows   | ⭐️1480 |
-| [irwir/eMule](https://github.com/irwir/eMule) | Continuing development of eMule   | ⭐️1303 |
-| [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) | Jellyfin Desktop Client   | ⭐️5978 |
-| [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) | PlayStation 5 translation layer for Windows, Linux and macOS   | ⭐️10772 |
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | Truly independent web browser   | ⭐️66931 |
-| [M2Team/NanaZip](https://github.com/M2Team/NanaZip) | The 7-Zip derivative intended for the modern Windows experience   | ⭐️16185 |
-| [milkdrop2077/MilkDrop3](https://github.com/milkdrop2077/MilkDrop3) | MilkDrop 3.0, supports any audio source, double-preset (.milk2), loading presets based on beat detection and much more...   | ⭐️1549 |
-| [musescore/MuseScore](https://github.com/musescore/MuseScore) | MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!   | ⭐️15380 |
-| [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) | 🎨 A secure boot compatible in-memory UxTheme patcher   | ⭐️3140 |
-| [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) | Notepad++ official repository   | ⭐️29810 |
-| [nzbgetcom/nzbget](https://github.com/nzbgetcom/nzbget) | Fast, lightweight Usenet & NZB downloader   | ⭐️788 |
-| [olive-editor/olive](https://github.com/olive-editor/olive) | Free open-source non-linear video editor   | ⭐️9148 |
-| [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | An open source re-implementation of RollerCoaster Tycoon 2 🎢   | ⭐️16550 |
-| [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) | qBittorrent BitTorrent client   | ⭐️41437 |
-| [react/react-native](https://github.com/react/react-native) | A framework for building native applications using React   | ⭐️126875 |
+| [imputnet/helium-windows](https://github.com/imputnet/helium-windows) | Helium Browser for Windows   | ⭐️1479 |
+| [irwir/eMule](https://github.com/irwir/eMule) | Continuing development of eMule   | ⭐️1304 |
+| [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) | Jellyfin Desktop Client   | ⭐️5987 |
+| [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) | PlayStation 5 translation layer for Windows, Linux and macOS   | ⭐️10835 |
+| [M2Team/NanaZip](https://github.com/M2Team/NanaZip) | The 7-Zip derivative intended for the modern Windows experience   | ⭐️16193 |
+| [milkdrop2077/MilkDrop3](https://github.com/milkdrop2077/MilkDrop3) | MilkDrop 3.0, supports any audio source, double-preset (.milk2), loading presets based on beat detection and much more...   | ⭐️1551 |
+| [musescore/MuseScore](https://github.com/musescore/MuseScore) | MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!   | ⭐️15384 |
+| [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) | 🎨 A secure boot compatible in-memory UxTheme patcher   | ⭐️3138 |
+| [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) | Notepad++ official repository   | ⭐️29819 |
+| [nzbgetcom/nzbget](https://github.com/nzbgetcom/nzbget) | Fast, lightweight Usenet & NZB downloader   | ⭐️789 |
+| [olive-editor/olive](https://github.com/olive-editor/olive) | Free open-source non-linear video editor   | ⭐️9151 |
+| [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | An open source re-implementation of RollerCoaster Tycoon 2 🎢   | ⭐️16553 |
+| [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) | qBittorrent BitTorrent client   | ⭐️41460 |
+| [react/react-native](https://github.com/react/react-native) | A framework for building native applications using React   | ⭐️126882 |
 | [salvadorrueda/SerialMP3Player](https://github.com/salvadorrueda/SerialMP3Player) | Arduino Library for Serial MP3 Player  (YX5300 chip)   | ⭐️27 |
-| [scummvm/scummvm](https://github.com/scummvm/scummvm) | ScummVM main repository   | ⭐️2881 |
-| [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) | A focused launcher for your desktop - native, fast, extensible   | ⭐️10547 |
+| [scummvm/scummvm](https://github.com/scummvm/scummvm) | ScummVM main repository   | ⭐️2882 |
+| [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) | A focused launcher for your desktop - native, fast, extensible   | ⭐️10562 |
 | [vslavik/poedit](https://github.com/vslavik/poedit) | Simple translation editor for PO, XLIFF, JSON etc. for Mac/Windows/Unix   | ⭐️2055 |
-| [Windscribe/Desktop-App](https://github.com/Windscribe/Desktop-App) | Public mirror of the Windscribe VPN desktop client for Windows, Mac and Linux   | ⭐️1162 |
-| [zen-browser/desktop](https://github.com/zen-browser/desktop) | Welcome to a calmer internet   | ⭐️45653 |
+| [Windscribe/Desktop-App](https://github.com/Windscribe/Desktop-App) | Public mirror of the Windscribe VPN desktop client for Windows, Mac and Linux   | ⭐️1163 |
+| [zen-browser/desktop](https://github.com/zen-browser/desktop) | Welcome to a calmer internet   | ⭐️45682 |
 ## CSS
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [greeeen-dev/natsumi-browser](https://github.com/greeeen-dev/natsumi-browser) | Welcome to your personal internet.   | ⭐️896 |
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | Anti-AI-slop design skill for Claude Code, Cursor, and Codex.   | ⭐️50506 |
+| [greeeen-dev/natsumi-browser](https://github.com/greeeen-dev/natsumi-browser) | Welcome to your personal internet.   | ⭐️898 |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | Anti-AI-slop design skill for Claude Code, Cursor, and Codex.   | ⭐️51316 |
 | [zen-browser/theme-store](https://github.com/zen-browser/theme-store) | 🎨 Theme repository for @zen-browser! (*archived*)  | ⭐️385 |
 ## D
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [Dadoum/anisette-v3-server](https://github.com/Dadoum/anisette-v3-server) | sidestore's anisette-v3 compatible server   | ⭐️638 |
+| [Dadoum/anisette-v3-server](https://github.com/Dadoum/anisette-v3-server) | sidestore's anisette-v3 compatible server   | ⭐️640 |
 | [soulfind-dev/soulfind](https://github.com/soulfind-dev/soulfind) | Soulseek server implementation in D   | ⭐️50 |
 ## Dart
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [ente/ente](https://github.com/ente/ente) | 💚 End-to-end encrypted cloud for everything.   | ⭐️29974 |
-| [finamp-app/finamp](https://github.com/finamp-app/finamp) | An open source music player made for Jellyfin   | ⭐️4532 |
-| [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | Get Android app updates straight from the source.   | ⭐️21335 |
+| [ente/ente](https://github.com/ente/ente) | 💚 End-to-end encrypted cloud for everything.   | ⭐️30004 |
+| [finamp-app/finamp](https://github.com/finamp-app/finamp) | An open source music player made for Jellyfin   | ⭐️4547 |
+| [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | Get Android app updates straight from the source.   | ⭐️21378 |
 | [jagandeepbrar/lunasea](https://github.com/jagandeepbrar/lunasea) | Self-hosted software controller built using Flutter (*archived*)  | ⭐️1460 |
 ## Elixir
 | Name  | Description  | Stars  |
@@ -182,37 +181,37 @@ Total starred repositories: `580`
 ## GLSL
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [libretro/glsl-shaders](https://github.com/libretro/glsl-shaders) | This repo is for glsl shaders converted by hand from libretro's common-shaders repo, since some don't play nicely with the cg2glsl script.   | ⭐️1272 |
+| [libretro/glsl-shaders](https://github.com/libretro/glsl-shaders) | This repo is for glsl shaders converted by hand from libretro's common-shaders repo, since some don't play nicely with the cg2glsl script.   | ⭐️1274 |
 ## Go
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform. 1Panel 是专门为 AI 服务器打造的管理面板。   | ⭐️37384 |
-| [AlistGo/alist](https://github.com/AlistGo/alist) | 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。   | ⭐️50424 |
+| [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) | 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform. 1Panel 是专门为 AI 服务器打造的管理面板。   | ⭐️37408 |
+| [AlistGo/alist](https://github.com/AlistGo/alist) | 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。   | ⭐️50432 |
 | [autobrr/autobrr](https://github.com/autobrr/autobrr) | Modern, easy to use download automation for torrents and usenet.   | ⭐️3196 |
 | [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) | An implementation of Shazam's song recognition algorithm.   | ⭐️5607 |
-| [Chocapikk/wpprobe](https://github.com/Chocapikk/wpprobe) | A fast WordPress plugin enumeration tool   | ⭐️973 |
+| [Chocapikk/wpprobe](https://github.com/Chocapikk/wpprobe) | A fast WordPress plugin enumeration tool   | ⭐️972 |
 | [dim13/otpauth](https://github.com/dim13/otpauth) | Google Authenticator migration decoder   | ⭐️972 |
-| [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.   | ⭐️37592 |
+| [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.   | ⭐️37610 |
 | [ironystock/agentic-obs](https://github.com/ironystock/agentic-obs) | agentic-obs: A Model Context Protocol (MCP) server that provides AI assistants with programmatic control over OBS Studio via the OBS WebSocket API. This server enables AI agents to manage scenes, sources, recording, streaming, and other OBS functionality through standardized MCP tools.   | ⭐️41 |
-| [knadh/listmonk](https://github.com/knadh/listmonk) | High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.   | ⭐️24195 |
-| [navidrome/navidrome](https://github.com/navidrome/navidrome) | 🎧 Your Personal Streaming Service    | ⭐️24574 |
-| [netbirdio/netbird](https://github.com/netbirdio/netbird) | NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®   | ⭐️30781 |
-| [ollama/ollama](https://github.com/ollama/ollama) | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.   | ⭐️186320 |
+| [knadh/listmonk](https://github.com/knadh/listmonk) | High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.   | ⭐️24210 |
+| [navidrome/navidrome](https://github.com/navidrome/navidrome) | 🎧 Your Personal Streaming Service    | ⭐️24602 |
+| [netbirdio/netbird](https://github.com/netbirdio/netbird) | NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®   | ⭐️30825 |
+| [ollama/ollama](https://github.com/ollama/ollama) | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.   | ⭐️186425 |
 | [portainer/d2k](https://github.com/portainer/d2k) | Docker-to-Kubernetes Translator   | ⭐️57 |
-| [rcourtman/Pulse](https://github.com/rcourtman/Pulse) | Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.   | ⭐️7057 |
-| [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API   | ⭐️57929 |
-| [StJudeWasHere/seonaut](https://github.com/StJudeWasHere/seonaut) | Open source SEO audit tool.   | ⭐️862 |
-| [supersonic-app/supersonic](https://github.com/supersonic-app/supersonic) | A lightweight and full-featured cross-platform desktop client for self-hosted music servers   | ⭐️2417 |
+| [rcourtman/Pulse](https://github.com/rcourtman/Pulse) | Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.   | ⭐️7062 |
+| [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API   | ⭐️58024 |
+| [StJudeWasHere/seonaut](https://github.com/StJudeWasHere/seonaut) | Open source SEO audit tool.   | ⭐️864 |
+| [supersonic-app/supersonic](https://github.com/supersonic-app/supersonic) | A lightweight and full-featured cross-platform desktop client for self-hosted music servers   | ⭐️2419 |
 | [TheOutdoorProgrammer/crate](https://github.com/TheOutdoorProgrammer/crate) | Self-hosted music manager. Search, watch, and download your music library via Deezer/MusicBrainz + slskd.   | ⭐️56 |
 ## HTML
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer) | FREE FOREVER, NO LIMITS 100% Programmatic, Zero-AI Plagiarism Remover & Similarity Evader. Bypass Turnitin, iThenticate, GPTZero, CopyLeaks, Quillbot & ZeroGPT for LaTeX, DOCX, & Multi-Language Source Code.   | ⭐️11912 |
-| [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) | A curated list of awesome warez and piracy links.   | ⭐️3031 |
+| [AhmadHassan-BTed/Turnitout-Humanizer](https://github.com/AhmadHassan-BTed/Turnitout-Humanizer) | FREE FOREVER, NO LIMITS 100% Programmatic, Zero-AI Plagiarism Remover & Similarity Evader. Bypass Turnitin, iThenticate, GPTZero, CopyLeaks, Quillbot & ZeroGPT for LaTeX, DOCX, & Multi-Language Source Code.   | ⭐️11982 |
+| [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) | A curated list of awesome warez and piracy links.   | ⭐️3034 |
 ## Haskell
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [jgm/pandoc](https://github.com/jgm/pandoc) | Universal markup converter   | ⭐️46853 |
+| [jgm/pandoc](https://github.com/jgm/pandoc) | Universal markup converter   | ⭐️46863 |
 ## Inno Setup
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
@@ -220,90 +219,90 @@ Total starred repositories: `580`
 ## Java
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) | Mac.apk: Run Android apps natively on Apple Silicon Macs   | ⭐️4055 |
-| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework   | ⭐️98618 |
-| [processing/processing4](https://github.com/processing/processing4) | Source code for Processing, the software sketchbook and Java-based programming language for students, artists, designers, educators, hobbyists, and creative coders. Includes the core library, and editor (PDE)   | ⭐️540 |
+| [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) | Mac.apk: Run Android apps natively on Apple Silicon Macs   | ⭐️4092 |
+| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework   | ⭐️98914 |
+| [processing/processing4](https://github.com/processing/processing4) | Source code for Processing, the software sketchbook and Java-based programming language for students, artists, designers, educators, hobbyists, and creative coders. Includes the core library, and editor (PDE)   | ⭐️542 |
 | [thargor6/JWildfire](https://github.com/thargor6/JWildfire) | JWildfire - powerful, flexible and user-friendly fractal flame editor   | ⭐️259 |
 ## JavaScript
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
 | [0jscsshtml/Bricksfree](https://github.com/0jscsshtml/Bricksfree) | Bricks Builder Plugin.   | ⭐️10 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.   | ⭐️299357 |
-| [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) | Chrome extension to return youtube dislikes   | ⭐️13840 |
-| [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | :zap: Dynamically generated stats for your github readmes   | ⭐️79842 |
-| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.   | ⭐️63466 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.   | ⭐️299878 |
+| [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) | Chrome extension to return youtube dislikes   | ⭐️13841 |
+| [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | :zap: Dynamically generated stats for your github readmes   | ⭐️79843 |
+| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.   | ⭐️63720 |
 | [bit-apps-pro/bit-integrations](https://github.com/bit-apps-pro/bit-integrations) |    | ⭐️5 |
 | [bwiernik/zotero-shortdoi](https://github.com/bwiernik/zotero-shortdoi) | Zotero extension to retrieve and validate DOIs and shortDOIs   | ⭐️1634 |
-| [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) | Bubble Card is a minimalist and customizable card collection for Home Assistant, featuring modern pop-ups and an integrated Module Store with over 100 community-made modules.   | ⭐️4709 |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings   | ⭐️66202 |
-| [CosmoCreeper/Sine](https://github.com/CosmoCreeper/Sine) | The ultimate theme manager for Firefox-based browsers.   | ⭐️1564 |
-| [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) | Jellystat is a free and open source Statistics App for Jellyfin   | ⭐️2506 |
+| [Clooos/Bubble-Card](https://github.com/Clooos/Bubble-Card) | Bubble Card is a minimalist and customizable card collection for Home Assistant, featuring modern pop-ups and an integrated Module Store with over 100 community-made modules.   | ⭐️4710 |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings   | ⭐️67341 |
+| [CosmoCreeper/Sine](https://github.com/CosmoCreeper/Sine) | The ultimate theme manager for Firefox-based browsers.   | ⭐️1569 |
+| [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) | Jellystat is a free and open source Statistics App for Jellyfin   | ⭐️2507 |
 | [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) | top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too   | ⭐️7543 |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.   | ⭐️186558 |
-| [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) | Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.   | ⭐️13589 |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.   | ⭐️187180 |
+| [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) | Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.   | ⭐️13588 |
 | [donn/nudelta](https://github.com/donn/nudelta) | Open source NuPhy Console alternative   | ⭐️611 |
 | [Ewoodss/npo-dl](https://github.com/Ewoodss/npo-dl) | npo start download tool   | ⭐️33 |
-| [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | The iconic SVG, font, and CSS toolkit   | ⭐️77026 |
-| [GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover) | A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法   | ⭐️5725 |
-| [gorhill/uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.   | ⭐️69165 |
+| [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | The iconic SVG, font, and CSS toolkit   | ⭐️77027 |
+| [GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover) | A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法   | ⭐️5728 |
+| [gorhill/uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.   | ⭐️69198 |
 | [HTTPArchive/wappalyzer](https://github.com/HTTPArchive/wappalyzer) | HTTP Archive fork of Wappalyzer   | ⭐️144 |
-| [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) | Web GUI for SVGO   | ⭐️6209 |
-| [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.   | ⭐️12269 |
-| [kiprotect/klaro](https://github.com/kiprotect/klaro) | Klaro Privacy Manager. An open-source, privacy-friendly & compliant consent manager for your website.   | ⭐️1526 |
-| [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | A toolbox of film styles made in code for Claude Code: 66 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：66 种现成风格，也能做出你自己的   | ⭐️13519 |
-| [lowlighter/metrics](https://github.com/lowlighter/metrics) | 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!   | ⭐️17372 |
-| [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) | The official repository of Mozilla's Firefox web browser.   | ⭐️13758 |
+| [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) | Web GUI for SVGO   | ⭐️6210 |
+| [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.   | ⭐️12283 |
+| [kiprotect/klaro](https://github.com/kiprotect/klaro) | Klaro Privacy Manager. An open-source, privacy-friendly & compliant consent manager for your website.   | ⭐️1527 |
+| [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | A toolbox of film styles made in code for Claude Code: 66 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：66 种现成风格，也能做出你自己的   | ⭐️13850 |
+| [lowlighter/metrics](https://github.com/lowlighter/metrics) | 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!   | ⭐️17374 |
+| [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) | The official repository of Mozilla's Firefox web browser.   | ⭐️13770 |
 | [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) | Tool for deleting all photos from the Google Photos   | ⭐️1562 |
-| [nodejs/node](https://github.com/nodejs/node) | Node.js JavaScript runtime ✨🐢🚀✨   | ⭐️123409 |
-| [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.   | ⭐️10967 |
+| [nodejs/node](https://github.com/nodejs/node) | Node.js JavaScript runtime ✨🐢🚀✨   | ⭐️123434 |
+| [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.   | ⭐️11077 |
 | [pressidium/pressidium-cookie-consent](https://github.com/pressidium/pressidium-cookie-consent) | 🍪 Lightweight, user-friendly and customizable cookie consent banner to help you comply with the EU GDPR cookie law and CCPA regulations.   | ⭐️171 |
-| [privacytests/privacytests](https://github.com/privacytests/privacytests) | Source code for privacytests.org. Includes browser testing code and site rendering.   | ⭐️1240 |
-| [react/react](https://github.com/react/react) | The library for web and native user interfaces.   | ⭐️252401 |
+| [privacytests/privacytests](https://github.com/privacytests/privacytests) | Source code for privacytests.org. Includes browser testing code and site rendering.   | ⭐️1241 |
+| [react/react](https://github.com/react/react) | The library for web and native user interfaces.   | ⭐️252434 |
 | [RemiRigal/Overseerr-Assistant](https://github.com/RemiRigal/Overseerr-Assistant) | Browser extension for Overseerr that embeds buttons into IMDb and TMDB web pages to easily request movies and tv shows.   | ⭐️138 |
-| [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) | PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.   | ⭐️11767 |
-| [spicetify/cli](https://github.com/spicetify/cli) | Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.   | ⭐️25416 |
+| [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) | PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.   | ⭐️11773 |
+| [spicetify/cli](https://github.com/spicetify/cli) | Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.   | ⭐️25431 |
 | [SplashtopInc/winstall](https://github.com/SplashtopInc/winstall) | A web app for browsing and installing Windows Package Manager apps.    | ⭐️1386 |
 | [thebitstick/zen-export](https://github.com/thebitstick/zen-export) | Export pinned Zen Browser tabs for importing bookmarks into other browsers (*archived*)  | ⭐️58 |
-| [thedevs-network/kutt](https://github.com/thedevs-network/kutt) | Free Modern URL Shortener.   | ⭐️11195 |
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.   | ⭐️94571 |
+| [thedevs-network/kutt](https://github.com/thedevs-network/kutt) | Free Modern URL Shortener.   | ⭐️11197 |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.   | ⭐️94902 |
 | [vibgyj/WPTranslationFiller](https://github.com/vibgyj/WPTranslationFiller) |    | ⭐️14 |
 | [vieira/homebridge-yeelight-wifi](https://github.com/vieira/homebridge-yeelight-wifi) | Homebridge plugin for Yeelight white and colored bulbs.   | ⭐️136 |
-| [WordPress/agent-skills](https://github.com/WordPress/agent-skills) | Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices   | ⭐️2342 |
-| [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) | Easily manage the brightness of your monitors in Windows from the system tray   | ⭐️9303 |
-| [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) | Yoast SEO for WordPress   | ⭐️2008 |
-| [zotero/translators](https://github.com/zotero/translators) | Zotero Translators   | ⭐️1732 |
-| [zotero/zotero](https://github.com/zotero/zotero) | Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.   | ⭐️15882 |
+| [WordPress/agent-skills](https://github.com/WordPress/agent-skills) | Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices   | ⭐️2348 |
+| [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) | Easily manage the brightness of your monitors in Windows from the system tray   | ⭐️9314 |
+| [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) | Yoast SEO for WordPress   | ⭐️2009 |
+| [zotero/translators](https://github.com/zotero/translators) | Zotero Translators   | ⭐️1734 |
+| [zotero/zotero](https://github.com/zotero/zotero) | Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.   | ⭐️15892 |
 ## Kotlin
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [bitwarden/android](https://github.com/bitwarden/android) | Bitwarden mobile apps (Password Manager and Authenticator) for Android.   | ⭐️9604 |
-| [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) | SD Maid 2/SE is Android's most thorough cleaning tool.   | ⭐️8024 |
+| [bitwarden/android](https://github.com/bitwarden/android) | Bitwarden mobile apps (Password Manager and Authenticator) for Android.   | ⭐️9607 |
+| [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) | SD Maid 2/SE is Android's most thorough cleaning tool.   | ⭐️8032 |
 | [hritwikjohri/Void-for-jellyfin](https://github.com/hritwikjohri/Void-for-jellyfin) |    | ⭐️475 |
-| [librepods-org/librepods](https://github.com/librepods-org/librepods) | AirPods liberated from Apple's ecosystem.   | ⭐️30660 |
-| [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) | Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.   | ⭐️33116 |
+| [librepods-org/librepods](https://github.com/librepods-org/librepods) | AirPods liberated from Apple's ecosystem.   | ⭐️30670 |
+| [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) | Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.   | ⭐️33220 |
 | [ringga-dev/kmp-printer](https://github.com/ringga-dev/kmp-printer) | 🚀 Kotlin Multiplatform ESC/POS thermal printing library — Android, iOS, Desktop, Web, Wasm. Bluetooth, BLE, USB, Network TCP. Receipt builder with QR/barcode, images, and status monitoring.   | ⭐️9 |
 ## Logos
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [Apollo-Reborn/Apollo-Reborn](https://github.com/Apollo-Reborn/Apollo-Reborn) | iOS tweak for Apollo Reddit app - use your own API keys, unlocked Ultra features, and other enhancements   | ⭐️1548 |
-| [dayanch96/YTLite](https://github.com/dayanch96/YTLite) | A flexible enhancer for YouTube on iOS   | ⭐️5614 |
+| [Apollo-Reborn/Apollo-Reborn](https://github.com/Apollo-Reborn/Apollo-Reborn) | iOS tweak for Apollo Reddit app - use your own API keys, unlocked Ultra features, and other enhancements   | ⭐️1550 |
+| [dayanch96/YTLite](https://github.com/dayanch96/YTLite) | A flexible enhancer for YouTube on iOS   | ⭐️5619 |
 ## MDX
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [twbs/bootstrap](https://github.com/twbs/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.   | ⭐️175015 |
+| [twbs/bootstrap](https://github.com/twbs/bootstrap) | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.   | ⭐️175023 |
 ## Makefile
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) | Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)   | ⭐️4389 |
+| [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) | Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)   | ⭐️4390 |
 | [ProcursusTeam/Procursus](https://github.com/ProcursusTeam/Procursus) | Modern *OS Bootstrap   | ⭐️1028 |
 ## Nim
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) | Effort free video editing!   | ⭐️5807 |
+| [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) | Effort free video editing!   | ⭐️5821 |
 ## Objective-C
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [objective-see/LuLu](https://github.com/objective-see/LuLu) | LuLu is the free open-source macOS firewall   | ⭐️13525 |
+| [objective-see/LuLu](https://github.com/objective-see/LuLu) | LuLu is the free open-source macOS firewall   | ⭐️13531 |
 ## PHP
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
@@ -325,7 +324,7 @@ Total starred repositories: `580`
 | [crstauf/query-monitor-extend](https://github.com/crstauf/query-monitor-extend) | WordPress plugin with customizations to enhance and extend the already awesome Query Monitor plugin.   | ⭐️104 |
 | [daitj/yourls-redirect-useragent](https://github.com/daitj/yourls-redirect-useragent) | A simple plugin to redirect based on User-Agent, all blacklisted user agents won't be redirected to target URL but instead shown a custom page.   | ⭐️3 |
 | [digitoimistodude/air-light](https://github.com/digitoimistodude/air-light) | 💨 WordPress starter theme - designed to be dependency-free, minimal, ultra-lightweight (< 20 kB) and easy for all kinds of WordPress projects. We prefer the original WordPress way of doing things - no strange templating languages or frameworks here.   | ⭐️1175 |
-| [elementor/elementor](https://github.com/elementor/elementor) | The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.   | ⭐️7100 |
+| [elementor/elementor](https://github.com/elementor/elementor) | The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.   | ⭐️7102 |
 | [elementor/hello-theme](https://github.com/elementor/hello-theme) | A plain-vanilla theme, best suited for building your site using Elementor plugin. This theme resets the environment and prepares it for smooth operation of Elementor.   | ⭐️614 |
 | [equalizedigital/accessibility-checker](https://github.com/equalizedigital/accessibility-checker) | Real-time automated accessibility testing inside the WordPress editor to help you find and fix WCAG compliance issues before publishing.   | ⭐️22 |
 | [EstebanForge/UnrePress](https://github.com/EstebanForge/UnrePress) | An independent Core, Plugins and Themes updater for WordPress. No wp.org dependency.   | ⭐️63 |
@@ -343,50 +342,50 @@ Total starred repositories: `580`
 | [johnbillion/user-switching](https://github.com/johnbillion/user-switching) | Instant switching between user accounts in WordPress and WooCommerce.   | ⭐️202 |
 | [Johnny2x2/lombda-wordpress-abilities-pack](https://github.com/Johnny2x2/lombda-wordpress-abilities-pack) |    | ⭐️23 |
 | [keyvanestermann/better-fontawesome-wp](https://github.com/keyvanestermann/better-fontawesome-wp) | Wordpress Plugin - Allows you to use any version of Fontawesome with Wordpress & Elementor (*archived*)  | ⭐️1 |
-| [kimai/kimai](https://github.com/kimai/kimai) | Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org   | ⭐️5143 |
-| [koel/koel](https://github.com/koel/koel) | Music streaming solution that works.   | ⭐️17335 |
+| [kimai/kimai](https://github.com/kimai/kimai) | Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org   | ⭐️5147 |
+| [koel/koel](https://github.com/koel/koel) | Music streaming solution that works.   | ⭐️17336 |
 | [krissss/yourls-download-plugin](https://github.com/krissss/yourls-download-plugin) | Yourls Download Plugins   | ⭐️15 |
 | [lucatume/wp-browser](https://github.com/lucatume/wp-browser) | The easy and reliable way to test WordPress with Codeception. 10 years of proven success.   | ⭐️636 |
 | [matomo-org/matomo-for-wordpress](https://github.com/matomo-org/matomo-for-wordpress) | Matomo is hiring! Join us → https://matomo.org/jobs Get a fully functioning Matomo Analytics for your WordPress. Star us on Github? ⭐️ Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Privacy is built-in. 100% data ownership, no one else can see your data. We love Pull Requests!    | ⭐️142 |
-| [mautic/mautic](https://github.com/mautic/mautic) | Mautic: Open Source Marketing Automation Software.   | ⭐️10951 |
+| [mautic/mautic](https://github.com/mautic/mautic) | Mautic: Open Source Marketing Automation Software.   | ⭐️10954 |
 | [mike42/escpos-php](https://github.com/mike42/escpos-php) | PHP library for printing to ESC/POS-compatible thermal and impact printers   | ⭐️2802 |
 | [mollie/WooCommerce](https://github.com/mollie/WooCommerce) | Official Mollie extension for WooCommerce   | ⭐️141 |
 | [msrbuilds/elementor-mcp](https://github.com/msrbuilds/elementor-mcp) | WordPress MCP server with 234 Free tools and 547 total with Pro for building pages, managing content, and operating your site. Availability depends on installed integrations and enabled tools.   | ⭐️761 |
 | [nosilver4u/ewww-image-optimizer](https://github.com/nosilver4u/ewww-image-optimizer) | Speed up your website and improve your visitors' experience by automatically compressing and resizing images and PDFs. Boost SEO and improve sales.   | ⭐️133 |
 | [orbisius/sak4wp](https://github.com/orbisius/sak4wp) | Swiss Army Knife for WordPress is a standalone tool which allows you to perform some recovery operations on your WordPress site. This tool is intended to be used for a short time only and then removed in order to prevent security issues. The tool records the current IP address and browser info and will not work with from any other IP or browser.   | ⭐️40 |
-| [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) | Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!   | ⭐️6217 |
+| [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) | Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!   | ⭐️6222 |
 | [patrickkivits/bunq-for-woocommerce](https://github.com/patrickkivits/bunq-for-woocommerce) | Accept payments in your WooCommerce shop with just your bunq account   | ⭐️19 |
-| [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) | The classic email sending library for PHP   | ⭐️22345 |
+| [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) | The classic email sending library for PHP   | ⭐️22343 |
 | [polylang/polylang](https://github.com/polylang/polylang) | WordPress multilingual plugin   | ⭐️389 |
 | [popcorn-time-ru/popcorn-ru](https://github.com/popcorn-time-ru/popcorn-ru) | Multilang api for popcorn   | ⭐️152 |
-| [proelements/proelements](https://github.com/proelements/proelements) | This plugin enables GPL features of Elementor Pro: widgets, theme builder, dynamic colors and content, forms & popup builder, and more.   | ⭐️1813 |
+| [proelements/proelements](https://github.com/proelements/proelements) | This plugin enables GPL features of Elementor Pro: widgets, theme builder, dynamic colors and content, forms & popup builder, and more.   | ⭐️1812 |
 | [ProgressPlanner/comment-free-zone](https://github.com/ProgressPlanner/comment-free-zone) | This plugin fully removes comments, trackbacks and all related features from your WordPress site.   | ⭐️2 |
 | [pronamic/advanced-custom-fields-pro](https://github.com/pronamic/advanced-custom-fields-pro) | Advanced Custom Fields Pro, Git-ified. Automatically synced via GitHub Actions! This repository is just a mirror of the Advanced Custom Fields Pro plugin. Please do not send pull requests and issues.   | ⭐️1351 |
 | [rankmath/seo-by-rank-math](https://github.com/rankmath/seo-by-rank-math) | Rank Math is a revolutionary WordPress SEO Plugin that combines the features of many SEO tools and lets you multiply your traffic in the easiest way possible :bulb: :chart_with_upwards_trend: →   | ⭐️137 |
 | [receipt-print-hq/escpos-tools](https://github.com/receipt-print-hq/escpos-tools) | Utilities to read ESC/POS print data   | ⭐️239 |
-| [rectorphp/rector](https://github.com/rectorphp/rector) | Instant Upgrades and Automated Refactoring of any PHP 5.3+ code   | ⭐️10497 |
+| [rectorphp/rector](https://github.com/rectorphp/rector) | Instant Upgrades and Automated Refactoring of any PHP 5.3+ code   | ⭐️10498 |
 | [rinothecoder/websitestylekit-wp-plugin](https://github.com/rinothecoder/websitestylekit-wp-plugin) | Importer and Exporter plugin for the WebsiteStylekit framework   | ⭐️13 |
 | [rollbar/rollbar-php-wordpress](https://github.com/rollbar/rollbar-php-wordpress) | Official WordPress plugin from Rollbar, Inc.   | ⭐️16 |
-| [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) | The Roundcube Webmail suite   | ⭐️7261 |
+| [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) | The Roundcube Webmail suite   | ⭐️7263 |
 | [RTO-Websites/dynamic-conditions](https://github.com/RTO-Websites/dynamic-conditions) | A simple plugin to show/hide elementor-widgets based on dynamic tags   | ⭐️58 |
 | [RTO-Websites/dynamic-tags](https://github.com/RTO-Websites/dynamic-tags) | Adds some useful dynamic-tags for elementor   | ⭐️5 |
 | [russdunn/yourls-cf-turnstile-v2](https://github.com/russdunn/yourls-cf-turnstile-v2) | Adds Cloudflare Turnstile to the YOURLS Admin login page   | ⭐️5 |
-| [shlinkio/shlink](https://github.com/shlinkio/shlink) | The definitive self-hosted URL shortener   | ⭐️5408 |
-| [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) | Modern open-source time-tracking app   | ⭐️9116 |
+| [shlinkio/shlink](https://github.com/shlinkio/shlink) | The definitive self-hosted URL shortener   | ⭐️5414 |
+| [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) | Modern open-source time-tracking app   | ⭐️9121 |
 | [umairahmed17/ACF-Group-Field-Elementor-Tag](https://github.com/umairahmed17/ACF-Group-Field-Elementor-Tag) | Extension for elementor dynamic tag to allow for group   | ⭐️27 |
 | [use-novamira/novamira](https://github.com/use-novamira/novamira) | MCP server that gives AI agents full access to WordPress through PHP execution and filesystem operations   | ⭐️758 |
 | [wearerequired/traduttore](https://github.com/wearerequired/traduttore) | 🗼 A WordPress plugin to improve the I18N workflow for your own projects based on @GlotPress.   | ⭐️80 |
 | [whatwedo/whatwedo-acf-cleaner](https://github.com/whatwedo/whatwedo-acf-cleaner) | WordPres Plugin: Cleanup old metadata created by Advanced Custom Fields   | ⭐️17 |
-| [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) | A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.   | ⭐️10582 |
+| [woocommerce/woocommerce](https://github.com/woocommerce/woocommerce) | A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.   | ⭐️10583 |
 | [woocommerce/woocommerce-gateway-stripe](https://github.com/woocommerce/woocommerce-gateway-stripe) | The official Stripe Payment Gateway for WooCommerce   | ⭐️293 |
-| [WordPress/mcp-adapter](https://github.com/WordPress/mcp-adapter) | An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.   | ⭐️1909 |
+| [WordPress/mcp-adapter](https://github.com/WordPress/mcp-adapter) | An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.   | ⭐️1912 |
 | [WordPress/plugin-check](https://github.com/WordPress/plugin-check) | A repository for the new Plugin Check plugin from the WordPress Performance and Plugins Team.   | ⭐️365 |
 | [WordPress/secure-custom-fields](https://github.com/WordPress/secure-custom-fields) | Secure Custom Fields   | ⭐️136 |
-| [WordPress/WordPress](https://github.com/WordPress/WordPress) | WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead.   | ⭐️21522 |
+| [WordPress/WordPress](https://github.com/WordPress/WordPress) | WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead.   | ⭐️21527 |
 | [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) | WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.   | ⭐️3507 |
 | [WordPress/wp-consent-level-api](https://github.com/WordPress/wp-consent-level-api) | An API that allows consent management plugins to work together through a standardized interface. Planned for adoption to WordPress Core.   | ⭐️94 |
 | [WP-Autoplugin/wp-banana](https://github.com/WP-Autoplugin/wp-banana) | AI image generation and editing via Gemini, OpenAI, Fal and Replicate, right in your WordPress media library. Native-like integration in Elementor, WooCommerce, and other plugins.   | ⭐️111 |
-| [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) | ⚙️ WP-CLI framework   | ⭐️5177 |
+| [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) | ⚙️ WP-CLI framework   | ⭐️5179 |
 | [wp-media/wp-rocket](https://github.com/wp-media/wp-rocket) | Performance optimization plugin for WordPress   | ⭐️769 |
 | [wpengine/phpcompat](https://github.com/wpengine/phpcompat) | WordPress Plugin: PHP Compatibility Checker (*archived*)  | ⭐️123 |
 | [wpengine/wpackagist](https://github.com/wpengine/wpackagist) | WPackagist — manage your plugins with Composer   | ⭐️767 |
@@ -402,83 +401,83 @@ Total starred repositories: `580`
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
 | [abbodi1406/ConsumerESU](https://github.com/abbodi1406/ConsumerESU) | Windows 10 Consumer ESU Enrollment   | ⭐️852 |
-| [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates   | ⭐️65702 |
-| [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.   | ⭐️62067 |
-| [that-guy-scott/remove-onedrive](https://github.com/that-guy-scott/remove-onedrive) | Complete OneDrive removal tool for Windows 11 - Reclaim control of your Documents, Desktop, and Pictures folders   | ⭐️53 |
+| [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates   | ⭐️65745 |
+| [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.   | ⭐️62173 |
+| [that-guy-scott/remove-onedrive](https://github.com/that-guy-scott/remove-onedrive) | Complete OneDrive removal tool for Windows 11 - Reclaim control of your Documents, Desktop, and Pictures folders   | ⭐️54 |
 | [ThioJoe/Windows-Sandbox-Tools](https://github.com/ThioJoe/Windows-Sandbox-Tools) | Various useful scripts for use within Windows Sandbox   | ⭐️651 |
 ## Python
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) | Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded audits, deterministic findings and evidence coverage, versioned JSON reports, and capability-gated account changes.   | ⭐️10820 |
-| [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.   | ⭐️27346 |
-| [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.   | ⭐️70356 |
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork   | ⭐️35164 |
-| [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills   | ⭐️189037 |
-| [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI   | ⭐️165254 |
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | A skill to stop your coding agent from burying the answer. ADHD-friendly output.   | ⭐️60465 |
-| [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.   | ⭐️11490 |
-| [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) | BleachBit system cleaner for Windows and Linux   | ⭐️7410 |
-| [browser-use/browser-harness](https://github.com/browser-use/browser-harness) | Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.   | ⭐️18948 |
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.   | ⭐️120293 |
-| [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | Fastest and cheapest web agent   | ⭐️24269 |
-| [browser-use/video-use](https://github.com/browser-use/video-use) | Edit videos with coding agents   | ⭐️30723 |
-| [cognitivegears/ha-escpos-thermal-printer](https://github.com/cognitivegears/ha-escpos-thermal-printer) | Home Assistant / HACS integration for network/usb/serial/bluetooth  thermal printers   | ⭐️115 |
-| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.   | ⭐️145667 |
+| [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) | Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded audits, deterministic findings and evidence coverage, versioned JSON reports, and capability-gated account changes.   | ⭐️10863 |
+| [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.   | ⭐️27563 |
+| [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.   | ⭐️70733 |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork   | ⭐️35247 |
+| [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills   | ⭐️190050 |
+| [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Stable Diffusion web UI   | ⭐️165266 |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | A skill to stop your coding agent from burying the answer. ADHD-friendly output.   | ⭐️60577 |
+| [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.   | ⭐️11509 |
+| [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) | BleachBit system cleaner for Windows and Linux   | ⭐️7419 |
+| [browser-use/browser-harness](https://github.com/browser-use/browser-harness) | Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.   | ⭐️18967 |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.   | ⭐️120393 |
+| [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | Fastest and cheapest web agent   | ⭐️24298 |
+| [browser-use/video-use](https://github.com/browser-use/video-use) | Edit videos with coding agents   | ⭐️30792 |
+| [cognitivegears/ha-escpos-thermal-printer](https://github.com/cognitivegears/ha-escpos-thermal-printer) | Home Assistant / HACS integration for network/usb/serial/bluetooth  thermal printers   | ⭐️116 |
+| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.   | ⭐️145892 |
 | [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) | Py2/py3 script that can download macOS components direct from Apple   | ⭐️7359 |
 | [DanielHalevi/Backdroppr](https://github.com/DanielHalevi/Backdroppr) | An automated system to download trailers. (*archived*)  | ⭐️24 |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.   | ⭐️104247 |
-| [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) | A Patch for GIMP 3+ for Photoshop Users   | ⭐️18544 |
-| [diyhue/diyHue](https://github.com/diyhue/diyHue) | Main diyHue software repo   | ⭐️1832 |
-| [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) | Experience macOS just like before   | ⭐️18898 |
-| [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) | One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.   | ⭐️6154 |
-| [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager) | Script that allows to download portable installers of different versions Adobe software for macOS   | ⭐️1564 |
-| [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) | Proxy server to bypass Cloudflare protection   | ⭐️16159 |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.   | ⭐️105483 |
+| [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) | A Patch for GIMP 3+ for Photoshop Users   | ⭐️18548 |
+| [diyhue/diyHue](https://github.com/diyhue/diyHue) | Main diyHue software repo   | ⭐️1833 |
+| [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) | Experience macOS just like before   | ⭐️18917 |
+| [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) | One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.   | ⭐️6160 |
+| [Drovosek01/adobe-packager](https://github.com/Drovosek01/adobe-packager) | Script that allows to download portable installers of different versions Adobe software for macOS   | ⭐️1563 |
+| [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) | Proxy server to bypass Cloudflare protection   | ⭐️16176 |
 | [Flexget/Flexget](https://github.com/Flexget/Flexget) | The official FlexGet repository   | ⭐️1990 |
-| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.   | ⭐️54137 |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.   | ⭐️144150 |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.   | ⭐️140866 |
-| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.   | ⭐️79106 |
-| [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) | Download and listen to your music, playlists, and podcasts, along with album art and metadata   | ⭐️856 |
-| [home-assistant/core](https://github.com/home-assistant/core) | :house_with_garden: Open source home automation that puts local control and privacy first.   | ⭐️92061 |
-| [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.   | ⭐️44029 |
-| [Jamesits/pve-fake-subscription](https://github.com/Jamesits/pve-fake-subscription) | Disables the "No valid subscription" dialog on all Proxmox products, all versions.   | ⭐️1138 |
-| [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.   | ⭐️4769 |
+| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.   | ⭐️55011 |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.   | ⭐️144698 |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.   | ⭐️141289 |
+| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.   | ⭐️79195 |
+| [henriquesebastiao/downtify](https://github.com/henriquesebastiao/downtify) | Download and listen to your music, playlists, and podcasts, along with album art and metadata   | ⭐️860 |
+| [home-assistant/core](https://github.com/home-assistant/core) | :house_with_garden: Open source home automation that puts local control and privacy first.   | ⭐️92087 |
+| [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.   | ⭐️44241 |
+| [Jamesits/pve-fake-subscription](https://github.com/Jamesits/pve-fake-subscription) | Disables the "No valid subscription" dialog on all Proxmox products, all versions.   | ⭐️1139 |
+| [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.   | ⭐️4857 |
 | [labelle-org/labelle](https://github.com/labelle-org/labelle) | Label printing software   | ⭐️192 |
-| [latent-spaces/brag](https://github.com/latent-spaces/brag) | You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.   | ⭐️20705 |
-| [ldrolez/free-midi-chords](https://github.com/ldrolez/free-midi-chords) | A collection of free MIDI chords and progressions ready to be used in your DAW, Akai MPC, or Roland MC-707/101   | ⭐️2365 |
-| [makeplane/plane-mcp-server](https://github.com/makeplane/plane-mcp-server) | Plane's Official Model Context Protocol Server 🔌 ⌨️ 🔥   | ⭐️358 |
+| [latent-spaces/brag](https://github.com/latent-spaces/brag) | You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.   | ⭐️20797 |
+| [ldrolez/free-midi-chords](https://github.com/ldrolez/free-midi-chords) | A collection of free MIDI chords and progressions ready to be used in your DAW, Akai MPC, or Roland MC-707/101   | ⭐️2367 |
+| [makeplane/plane-mcp-server](https://github.com/makeplane/plane-mcp-server) | Plane's Official Model Context Protocol Server 🔌 ⌨️ 🔥   | ⭐️357 |
 | [ManiMatter/decluttarr](https://github.com/ManiMatter/decluttarr) | Watches radarr, sonarr, lidarr, readarr, whisparr and sportarr download queues and removes downloads if they become stalled or no longer needed.   | ⭐️902 |
 | [mlnl221/nicotine-plus-gluetun-auto-port-set](https://github.com/mlnl221/nicotine-plus-gluetun-auto-port-set) | Auto set the listening port on nicotine+ (3.3.7+) from gluetun VPN container.   | ⭐️12 |
 | [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) | Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you.   | ⭐️4411 |
 | [mrgasparov/nicotine-novnc](https://github.com/mrgasparov/nicotine-novnc) | Nicotine+ docker image for Synology NAS and Raspberry Pi   | ⭐️13 |
-| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.   | ⭐️146665 |
-| [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) | Graphical client for the Soulseek peer-to-peer network   | ⭐️3229 |
-| [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) | Perfect Green Screen Keys   | ⭐️15021 |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you   | ⭐️261587 |
-| [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched   | ⭐️35262 |
-| [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | Secure, Fast, and Extensible Sandbox runtime for AI agents.   | ⭐️16560 |
-| [oraios/serena](https://github.com/oraios/serena) | A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent   | ⭐️31198 |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.   | ⭐️110107 |
+| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.   | ⭐️147113 |
+| [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) | Graphical client for the Soulseek peer-to-peer network   | ⭐️3228 |
+| [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) | Perfect Green Screen Keys   | ⭐️15026 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you   | ⭐️261903 |
+| [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched   | ⭐️35273 |
+| [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | Secure, Fast, and Extensible Sandbox runtime for AI agents.   | ⭐️16735 |
+| [oraios/serena](https://github.com/oraios/serena) | A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent   | ⭐️31228 |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.   | ⭐️110447 |
 | [Pauli1Go/iphone-mirroring-eu-enabler](https://github.com/Pauli1Go/iphone-mirroring-eu-enabler) | Enables iPhone-mirroring in the EU   | ⭐️137 |
-| [PhialsBasement/LibreCrawl](https://github.com/PhialsBasement/LibreCrawl) | Free desktop SEO crawler - open source alternative to Screaming Frog and similar tools. Crawl websites, analyze links, extract SEO data, and export results without subscription fees. Fully customizable and extensible!   | ⭐️1099 |
-| [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) | Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS/visionOS）   | ⭐️5654 |
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs   | ⭐️497123 |
+| [PhialsBasement/LibreCrawl](https://github.com/PhialsBasement/LibreCrawl) | Free desktop SEO crawler - open source alternative to Screaming Frog and similar tools. Crawl websites, analyze links, extract SEO data, and export results without subscription fees. Fully customizable and extensible!   | ⭐️1101 |
+| [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) | Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS/visionOS）   | ⭐️5657 |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs   | ⭐️497410 |
 | [python-escpos/python-escpos](https://github.com/python-escpos/python-escpos) | Python library to manipulate ESC/POS printers   | ⭐️1328 |
 | [receipt-print-hq/escpos-printer-db](https://github.com/receipt-print-hq/escpos-printer-db) | Database of ESC/POS thermal receipt printers   | ⭐️147 |
 | [recyclarr/config-templates](https://github.com/recyclarr/config-templates) | Premade Configuration YAML Files for Recyclarr   | ⭐️209 |
-| [RekklesNA/ProxmoxMCP-Plus](https://github.com/RekklesNA/ProxmoxMCP-Plus) | Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.   | ⭐️644 |
+| [RekklesNA/ProxmoxMCP-Plus](https://github.com/RekklesNA/ProxmoxMCP-Plus) | Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.   | ⭐️646 |
 | [rfsbraz/deleterr](https://github.com/rfsbraz/deleterr) | Automated Plex media cleanup with watch-based rules, smart exclusions, and "Leaving Soon" notifications via Radarr, Sonarr & Tautulli.   | ⭐️339 |
-| [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) | MCP server integration for DaVinci Resolve Studio   | ⭐️3991 |
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.   | ⭐️144144 |
-| [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.   | ⭐️10487 |
+| [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) | MCP server integration for DaVinci Resolve Studio   | ⭐️4008 |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.   | ⭐️144251 |
+| [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.   | ⭐️10519 |
 | [tammohesselink/rekordbox-proof-audio-conversion](https://github.com/tammohesselink/rekordbox-proof-audio-conversion) | Tooling to convert your music library to CDJ playable audio files   | ⭐️44 |
-| [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) | Allows you easily scan for and delete scam comments using several methods.   | ⭐️4633 |
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Hindsight: Agent Memory That Learns   | ⭐️59800 |
-| [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) | Web based localization tool with tight version control integration.   | ⭐️6162 |
+| [ThioJoe/YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) | Allows you easily scan for and delete scam comments using several methods.   | ⭐️4634 |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Hindsight: Agent Memory That Learns   | ⭐️59997 |
+| [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) | Web based localization tool with tight version control integration.   | ⭐️6163 |
 | [xDarkzx/OBS_MCP](https://github.com/xDarkzx/OBS_MCP) | AI-powered stream and recording control for OBS Studio via MCP — 148 tools for scenes, audio mixer, filters, streaming, recording, and stream health diagnostics.   | ⭐️25 |
-| [Zer0xDev/upRa1n](https://github.com/Zer0xDev/upRa1n) | Tethered dualboot/restore iOS 18 on iPad 6 (Wifi / Cellular)   | ⭐️122 |
-| [zotify-dev/zotify](https://github.com/zotify-dev/zotify) | A fast and customizable music and podcast downloader.   | ⭐️2581 |
-| [Zyphra/Zonos](https://github.com/Zyphra/Zonos) | Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers.   | ⭐️7238 |
+| [Zer0xDev/upRa1n](https://github.com/Zer0xDev/upRa1n) | Tethered dualboot/restore iOS 18 on iPad 6 (Wifi / Cellular)   | ⭐️123 |
+| [zotify-dev/zotify](https://github.com/zotify-dev/zotify) | A fast and customizable music and podcast downloader.   | ⭐️2582 |
+| [Zyphra/Zonos](https://github.com/Zyphra/Zonos) | Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers.   | ⭐️7239 |
 ## Rich Text Format
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
@@ -486,55 +485,56 @@ Total starred repositories: `580`
 ## Ruby
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [discourse/discourse](https://github.com/discourse/discourse) | A platform for community discussion. Free, open, simple.   | ⭐️48058 |
-| [Homebrew/brew](https://github.com/Homebrew/brew) | 🍺 The Package Manager for Everywhere   | ⭐️50361 |
-| [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) | 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere   | ⭐️15657 |
+| [discourse/discourse](https://github.com/discourse/discourse) | A platform for community discussion. Free, open, simple.   | ⭐️48063 |
+| [Homebrew/brew](https://github.com/Homebrew/brew) | 🍺 The Package Manager for Everywhere   | ⭐️50376 |
+| [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) | 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere   | ⭐️15659 |
 | [kgarner7/homebrew-feishin](https://github.com/kgarner7/homebrew-feishin) |    | ⭐️17 |
-| [opf/openproject](https://github.com/opf/openproject) | OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub   | ⭐️17111 |
+| [opf/openproject](https://github.com/opf/openproject) | OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub   | ⭐️17162 |
 | [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) | WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com   | ⭐️9842 |
 ## Rust
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.   | ⭐️20364 |
-| [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) | A smarter cd command. Supports all major shells.   | ⭐️40506 |
-| [aovestdipaperino/tokensave](https://github.com/aovestdipaperino/tokensave) | The most comprehensive code intelligence MCP server for AI coding agents. 40+ tools, 30+ languages, 9 agent integrations. Pre-indexed semantic knowledge graphs for instant code understanding — fewer tokens, fewer tool calls, 100% local.   | ⭐️695 |
-| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.   | ⭐️25359 |
-| [cardisoft/cardinal](https://github.com/cardisoft/cardinal) | Fastest file searching tool for macOS   | ⭐️1778 |
-| [cjpais/Handy](https://github.com/cjpais/Handy) | A free, open source, and extensible speech-to-text application that works completely offline.   | ⭐️37978 |
-| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs   | ⭐️70419 |
+| [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.   | ⭐️20377 |
+| [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) | A smarter cd command. Supports all major shells.   | ⭐️40522 |
+| [aovestdipaperino/tokensave](https://github.com/aovestdipaperino/tokensave) | The most comprehensive code intelligence MCP server for AI coding agents. 40+ tools, 30+ languages, 9 agent integrations. Pre-indexed semantic knowledge graphs for instant code understanding — fewer tokens, fewer tool calls, 100% local.   | ⭐️697 |
+| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.   | ⭐️25417 |
+| [cardisoft/cardinal](https://github.com/cardisoft/cardinal) | Fastest file searching tool for macOS   | ⭐️1782 |
+| [cjpais/Handy](https://github.com/cjpais/Handy) | A free, open source, and extensible speech-to-text application that works completely offline.   | ⭐️38110 |
+| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs   | ⭐️70465 |
 | [dheijl/swyh-rs](https://github.com/dheijl/swyh-rs) | Stream What You Hear written in rust, inspired by SWYH.   | ⭐️609 |
-| [fallow-rs/fallow](https://github.com/fallow-rs/fallow) | Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.   | ⭐️5315 |
-| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io   | ⭐️152667 |
-| [lexmount/moli](https://github.com/lexmount/moli) | Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust   | ⭐️22981 |
-| [lycheeverse/lychee](https://github.com/lycheeverse/lychee) | ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!   | ⭐️4106 |
+| [fallow-rs/fallow](https://github.com/fallow-rs/fallow) | Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI, GitHub Action, LSP, MCP, and VS Code. Rust, MIT licensed.   | ⭐️5322 |
+| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io   | ⭐️152960 |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | Truly independent web browser   | ⭐️66944 |
+| [lexmount/moli](https://github.com/lexmount/moli) | Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust   | ⭐️23121 |
+| [lycheeverse/lychee](https://github.com/lycheeverse/lychee) | ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!   | ⭐️4111 |
 | [nicholasraimbault/silvervine](https://github.com/nicholasraimbault/silvervine) | Cross-platform Widevine helper for Chromium based browsers   | ⭐️97 |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.   | ⭐️105791 |
-| [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) | The customization marketplace for Windows programs: https://windhawk.net/   | ⭐️9728 |
-| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies   | ⭐️85863 |
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.   | ⭐️128606 |
-| [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) | All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).   | ⭐️15786 |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.   | ⭐️106493 |
+| [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) | The customization marketplace for Windows programs: https://windhawk.net/   | ⭐️9747 |
+| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies   | ⭐️85970 |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.   | ⭐️128733 |
+| [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) | All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).   | ⭐️15808 |
 | [stalwartlabs/webadmin](https://github.com/stalwartlabs/webadmin) | Web-based admin for Stalwart (*archived*)  | ⭐️182 |
-| [storytold/artcraft](https://github.com/storytold/artcraft) | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers   | ⭐️39677 |
-| [storytold/artcraftx](https://github.com/storytold/artcraftx) | ArtCraft-X   | ⭐️1120 |
-| [storytold/cadcraft](https://github.com/storytold/cadcraft) | CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust   | ⭐️7804 |
-| [storytold/deckcraft](https://github.com/storytold/deckcraft) | Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.   | ⭐️4669 |
-| [storytold/designcraft](https://github.com/storytold/designcraft) | DesignCraft: An open-source page and layout design editor written by scratch in pure Rust   | ⭐️5173 |
-| [storytold/effectcraft](https://github.com/storytold/effectcraft) | EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust   | ⭐️8549 |
-| [storytold/filmcraft](https://github.com/storytold/filmcraft) | FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust   | ⭐️17790 |
-| [storytold/gridcraft](https://github.com/storytold/gridcraft) | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.   | ⭐️7312 |
-| [storytold/lightcraft](https://github.com/storytold/lightcraft) | LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust   | ⭐️15669 |
-| [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust   | ⭐️19954 |
-| [storytold/photocraft](https://github.com/storytold/photocraft) | PhotoCraft: An open-source, photo editor written by scratch in pure Rust   | ⭐️77827 |
-| [storytold/soundcraft](https://github.com/storytold/soundcraft) | An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust   | ⭐️4160 |
-| [storytold/vectorcraft](https://github.com/storytold/vectorcraft) | VectorCraft: An open-source, vector art tool written by scratch in pure Rust   | ⭐️11485 |
-| [storytold/wordcraft](https://github.com/storytold/wordcraft) | An open-source, clean-room reimplementation of Microsoft Word in pure Rust   | ⭐️17566 |
+| [storytold/artcraft](https://github.com/storytold/artcraft) | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers   | ⭐️40077 |
+| [storytold/artcraftx](https://github.com/storytold/artcraftx) | ArtCraft-X   | ⭐️1121 |
+| [storytold/cadcraft](https://github.com/storytold/cadcraft) | CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust   | ⭐️7848 |
+| [storytold/deckcraft](https://github.com/storytold/deckcraft) | Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.   | ⭐️4691 |
+| [storytold/designcraft](https://github.com/storytold/designcraft) | DesignCraft: An open-source page and layout design editor written by scratch in pure Rust   | ⭐️5196 |
+| [storytold/effectcraft](https://github.com/storytold/effectcraft) | EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust   | ⭐️8578 |
+| [storytold/filmcraft](https://github.com/storytold/filmcraft) | FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust   | ⭐️17866 |
+| [storytold/gridcraft](https://github.com/storytold/gridcraft) | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.   | ⭐️7354 |
+| [storytold/lightcraft](https://github.com/storytold/lightcraft) | LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust   | ⭐️15735 |
+| [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust   | ⭐️20089 |
+| [storytold/photocraft](https://github.com/storytold/photocraft) | PhotoCraft: An open-source, photo editor written by scratch in pure Rust   | ⭐️78071 |
+| [storytold/soundcraft](https://github.com/storytold/soundcraft) | An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust   | ⭐️4181 |
+| [storytold/vectorcraft](https://github.com/storytold/vectorcraft) | VectorCraft: An open-source, vector art tool written by scratch in pure Rust   | ⭐️11531 |
+| [storytold/wordcraft](https://github.com/storytold/wordcraft) | An open-source, clean-room reimplementation of Microsoft Word in pure Rust   | ⭐️17647 |
 | [ThioJoe/win-svg-thumbs-rust](https://github.com/ThioJoe/win-svg-thumbs-rust) | A native Windows SVG thumbnail handler for File Explorer that uses only the Windows API, written in Rust.   | ⭐️607 |
-| [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) | Upgrade all the things   | ⭐️4753 |
-| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.   | ⭐️194945 |
-| [warpdotdev/warp](https://github.com/warpdotdev/warp) | Warp is an agentic development environment, born out of the terminal.   | ⭐️65916 |
-| [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.   | ⭐️2652 |
-| [Xoshbin/asyar](https://github.com/Xoshbin/asyar) | The power of Raycast. The speed of Alfred. Privacy by design.   | ⭐️983 |
-| [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.ai   | ⭐️32524 |
+| [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) | Upgrade all the things   | ⭐️4759 |
+| [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) | An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.   | ⭐️194927 |
+| [warpdotdev/warp](https://github.com/warpdotdev/warp) | Warp is an agentic development environment, born out of the terminal.   | ⭐️65934 |
+| [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.   | ⭐️2707 |
+| [Xoshbin/asyar](https://github.com/Xoshbin/asyar) | The power of Raycast. The speed of Alfred. Privacy by design.   | ⭐️986 |
+| [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.ai   | ⭐️32549 |
 ## SCSS
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
@@ -543,29 +543,29 @@ Total starred repositories: `580`
 ## Scala
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) | Steam Play for macOS   | ⭐️2458 |
+| [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) | Steam Play for macOS   | ⭐️2467 |
 ## Shell
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) | Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more   | ⭐️5991 |
-| [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) | Installer Microsoft Office For MacOS (*archived*)  | ⭐️8595 |
+| [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) | Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more   | ⭐️5994 |
+| [alsyundawy/Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) | Installer Microsoft Office For MacOS (*archived*)  | ⭐️8600 |
 | [BassT23/Proxmox](https://github.com/BassT23/Proxmox) | Update your Proxmox VE   | ⭐️653 |
 | [beaugunderson/ZoteroQuickLookNG](https://github.com/beaugunderson/ZoteroQuickLookNG) | Implements QuickLook in Zotero   | ⭐️63 |
 | [ccarney16/pterodactyl-containers](https://github.com/ccarney16/pterodactyl-containers) | Pterodactyl Panel within a docker container   | ⭐️243 |
-| [ChrisTitusTech/macutil](https://github.com/ChrisTitusTech/macutil) | Fix macOS crazy defaults to be functional and remove animations and other apple b.s.   | ⭐️558 |
-| [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) | Proxmox VE Helper-Scripts (Community Edition)    | ⭐️30064 |
+| [ChrisTitusTech/macutil](https://github.com/ChrisTitusTech/macutil) | Fix macOS crazy defaults to be functional and remove animations and other apple b.s.   | ⭐️559 |
+| [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) | Proxmox VE Helper-Scripts (Community Edition)    | ⭐️30072 |
 | [drake495/Davinci-Resolve-Updater](https://github.com/drake495/Davinci-Resolve-Updater) | This script automates the manual update process for Davinci Resolve (regular or studio) for Arch Linux Users and the AUR.   | ⭐️20 |
 | [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) | Mac setup and configuration via Ansible.   | ⭐️7060 |
-| [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) | 🏳️‍🌈 🏳️‍⚧️ Neofetch with LGBTQ+ pride flags!   | ⭐️2149 |
+| [hykilpikonna/hyfetch](https://github.com/hykilpikonna/hyfetch) | 🏳️‍🌈 🏳️‍⚧️ Neofetch with LGBTQ+ pride flags!   | ⭐️2154 |
 | [mattmc3/antidote](https://github.com/mattmc3/antidote) | https://antidote.sh - the cure to slow zsh plugin management   | ⭐️1825 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory.   | ⭐️318044 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory.   | ⭐️319043 |
 | [mautic/docker-mautic](https://github.com/mautic/docker-mautic) | Docker Image for Mautic   | ⭐️482 |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.   | ⭐️167175 |
-| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works.   | ⭐️314296 |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.   | ⭐️167398 |
+| [obra/superpowers](https://github.com/obra/superpowers) | An agentic skills framework & software development methodology that works.   | ⭐️314782 |
 | [Prowlarr/Indexers](https://github.com/Prowlarr/Indexers) | Contains indexer definitions   | ⭐️201 |
 | [sirjmann92/nicotineplus-proper](https://github.com/sirjmann92/nicotineplus-proper) | Nicotine+ as a WebUI in a Docker container   | ⭐️152 |
-| [tw93/Mole](https://github.com/tw93/Mole) | 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.   | ⭐️74236 |
-| [VSCodium/vscodium](https://github.com/VSCodium/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing   | ⭐️34008 |
+| [tw93/Mole](https://github.com/tw93/Mole) | 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.   | ⭐️74342 |
+| [VSCodium/vscodium](https://github.com/VSCodium/vscodium) | binary releases of VS Code without MS branding/telemetry/licensing   | ⭐️34023 |
 ## Smarty
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
@@ -573,173 +573,173 @@ Total starred repositories: `580`
 ## Svelte
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [imputnet/cobalt](https://github.com/imputnet/cobalt) | best way to save what you love   | ⭐️45916 |
+| [imputnet/cobalt](https://github.com/imputnet/cobalt) | best way to save what you love   | ⭐️45937 |
 | [janreges/siteone-crawler-gui](https://github.com/janreges/siteone-crawler-gui) | SiteOne Crawler GUI is a cross-platform website crawler and analyzer for SEO, security, accessibility, and performance optimization—ideal for developers, DevOps, QA engineers, and consultants. Supports Windows, macOS, and Linux (x64 and arm64).   | ⭐️256 |
 ## Swift
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) | A native macOS launcher for everyday productivity. Lightweight and open source.   | ⭐️9272 |
-| [alielsokary/CaskHub](https://github.com/alielsokary/CaskHub) | Native GUI for Homebrew Casks   | ⭐️1419 |
-| [artginzburg/MiddleClick](https://github.com/artginzburg/MiddleClick) |  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.   | ⭐️2952 |
-| [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) | Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server   | ⭐️1845 |
-| [Caldis/Mos](https://github.com/Caldis/Mos) | 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS   | ⭐️21848 |
-| [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) | Excalidraw app for mac. Powered by pure SwiftUI.   | ⭐️1542 |
-| [claration/feather](https://github.com/claration/feather) | Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.   | ⭐️5037 |
-| [daveebbelaar/bama](https://github.com/daveebbelaar/bama) | BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.   | ⭐️1677 |
-| [didriksg/Crisp](https://github.com/didriksg/Crisp) | Every display control macOS hides, in one menu bar app: sharp HiDPI/Retina scaling (no more blurry or tiny text), DDC brightness and volume, Extra Brightness past 100%, presets, virtual displays. Free and open source, a no-cost alternative to BetterDisplay and Lunar.   | ⭐️2341 |
-| [ejbills/DockDoor](https://github.com/ejbills/DockDoor) | Window peeking, alt-tab and other enhancements for macOS   | ⭐️6535 |
-| [f/textream](https://github.com/f/textream) | Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extensible features.   | ⭐️4253 |
-| [FuzzyIdeas/Clop](https://github.com/FuzzyIdeas/Clop) | Clipboard optimizer for macOS   | ⭐️1863 |
+| [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) | A native macOS launcher for everyday productivity. Lightweight and open source.   | ⭐️9308 |
+| [alielsokary/CaskHub](https://github.com/alielsokary/CaskHub) | Native GUI for Homebrew Casks   | ⭐️1420 |
+| [artginzburg/MiddleClick](https://github.com/artginzburg/MiddleClick) |  "Wheel click" with three-finger click/tap for Trackpad and Magic Mouse.   | ⭐️2954 |
+| [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) | Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server   | ⭐️1846 |
+| [Caldis/Mos](https://github.com/Caldis/Mos) | 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS   | ⭐️21862 |
+| [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) | Excalidraw app for mac. Powered by pure SwiftUI.   | ⭐️1544 |
+| [claration/feather](https://github.com/claration/feather) | Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.   | ⭐️5050 |
+| [daveebbelaar/bama](https://github.com/daveebbelaar/bama) | BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.   | ⭐️1708 |
+| [didriksg/Crisp](https://github.com/didriksg/Crisp) | Every display control macOS hides, in one menu bar app: sharp HiDPI/Retina scaling (no more blurry or tiny text), DDC brightness and volume, Extra Brightness past 100%, presets, virtual displays. Free and open source, a no-cost alternative to BetterDisplay and Lunar.   | ⭐️2354 |
+| [ejbills/DockDoor](https://github.com/ejbills/DockDoor) | Window peeking, alt-tab and other enhancements for macOS   | ⭐️6541 |
+| [f/textream](https://github.com/f/textream) | Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extensible features.   | ⭐️4257 |
+| [FuzzyIdeas/Clop](https://github.com/FuzzyIdeas/Clop) | Clipboard optimizer for macOS   | ⭐️1864 |
 | [gouwsxander/Reef](https://github.com/gouwsxander/Reef) | The macOS window manager that gives every app its own Alt-Tab.   | ⭐️616 |
 | [huberdf/FreeDisplay](https://github.com/huberdf/FreeDisplay) | Free & open-source alternative to BetterDisplay for macOS. DDC brightness/contrast control, HiDPI virtual displays, display arrangement, color profiles, auto brightness sync, keyboard brightness key interception with native OSD — all core BetterDisplay features, zero cost.   | ⭐️121 |
-| [jaskirat1616/mactap-app](https://github.com/jaskirat1616/mactap-app) | MacTap — knock your MacBook to run shortcuts   | ⭐️763 |
-| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.   | ⭐️117954 |
-| [jordanbaird/Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS   | ⭐️29985 |
-| [Kruszoneq/macUSB](https://github.com/Kruszoneq/macUSB) | The all-in-one bootable USB creator for Mac   | ⭐️3407 |
-| [lab421/forel](https://github.com/lab421/forel) | File automation for macOS. The open source Hazel alternative for macOS.   | ⭐️927 |
-| [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) | The mouse and trackpad utility for Mac.   | ⭐️7140 |
-| [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.   | ⭐️28743 |
-| [mangerlahn/Latest](https://github.com/mangerlahn/Latest) | A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.   | ⭐️4849 |
-| [mas-cli/mas](https://github.com/mas-cli/mas) | :package: Mac App Store command-line interface   | ⭐️12418 |
+| [jaskirat1616/mactap-app](https://github.com/jaskirat1616/mactap-app) | MacTap — knock your MacBook to run shortcuts   | ⭐️766 |
+| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.   | ⭐️118107 |
+| [jordanbaird/Ice](https://github.com/jordanbaird/Ice) | Powerful menu bar manager for macOS   | ⭐️30000 |
+| [Kruszoneq/macUSB](https://github.com/Kruszoneq/macUSB) | The all-in-one bootable USB creator for Mac   | ⭐️3411 |
+| [lab421/forel](https://github.com/lab421/forel) | File automation for macOS. The open source Hazel alternative for macOS.   | ⭐️934 |
+| [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) | The mouse and trackpad utility for Mac.   | ⭐️7146 |
+| [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.   | ⭐️28739 |
+| [mangerlahn/Latest](https://github.com/mangerlahn/Latest) | A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.   | ⭐️4851 |
+| [mas-cli/mas](https://github.com/mas-cli/mas) | :package: Mac App Store command-line interface   | ⭐️12420 |
 | [Michael-128/qBitControl](https://github.com/Michael-128/qBitControl) | qBittorrent remote client for iOS devices.   | ⭐️428 |
-| [momenbasel/PureMac](https://github.com/momenbasel/PureMac) | Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.   | ⭐️7687 |
-| [moona3k/macparakeet](https://github.com/moona3k/macparakeet) | Fast, private, local-first voice app for Apple Silicon Macs — dictation, file/media transcription, meeting recording, Transforms, and a public automation CLI. Free and open-source.   | ⭐️770 |
-| [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) | AeroSpace is an i3-like tiling window manager for macOS   | ⭐️23766 |
-| [oxremy/BlinkMore](https://github.com/oxremy/BlinkMore) | open-source macOS app to help with digital eye strain    | ⭐️96 |
+| [momenbasel/PureMac](https://github.com/momenbasel/PureMac) | Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.   | ⭐️7705 |
+| [moona3k/macparakeet](https://github.com/moona3k/macparakeet) | Fast, private, local-first voice app for Apple Silicon Macs — dictation, file/media transcription, meeting recording, Transforms, and a public automation CLI. Free and open-source.   | ⭐️774 |
+| [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) | AeroSpace is an i3-like tiling window manager for macOS   | ⭐️23775 |
+| [oxremy/BlinkMore](https://github.com/oxremy/BlinkMore) | open-source macOS app to help with digital eye strain    | ⭐️95 |
 | [quentinlesceller/macmediakeyforwarder](https://github.com/quentinlesceller/macmediakeyforwarder) | Media Key Forwarder for iTunes and Spotify   | ⭐️339 |
-| [robinebers/openusage](https://github.com/robinebers/openusage) | Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.   | ⭐️4567 |
+| [robinebers/openusage](https://github.com/robinebers/openusage) | Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.   | ⭐️4572 |
 | [rrroyal/Harbour](https://github.com/rrroyal/Harbour) | Docker/Portainer management app for iOS, iPadOS and macOS.   | ⭐️767 |
-| [Saffsanity/sill](https://github.com/Saffsanity/sill) | Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers.   | ⭐️4702 |
-| [samhenrigold/LightTouchMac](https://github.com/samhenrigold/LightTouchMac) | Run classic iPhone, iPod touch and iPad apps on your Mac (iOS 1–7)   | ⭐️331 |
-| [sarensw/MacPacker](https://github.com/sarensw/MacPacker) | Archive manager and 7zip replacement for macOS. Preview (nested) archives without extracting them. Extract single files.   | ⭐️1466 |
+| [Saffsanity/sill](https://github.com/Saffsanity/sill) | Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers.   | ⭐️4735 |
+| [samhenrigold/LightTouchMac](https://github.com/samhenrigold/LightTouchMac) | Run classic iPhone, iPod touch and iPad apps on your Mac (iOS 1–7)   | ⭐️338 |
+| [sarensw/MacPacker](https://github.com/sarensw/MacPacker) | Archive manager and 7zip replacement for macOS. Preview (nested) archives without extracting them. Extract single files.   | ⭐️1471 |
 | [sk-ruban/notchi](https://github.com/sk-ruban/notchi) | notch app for claude code & codex   | ⭐️1046 |
-| [steipete/CodexBar](https://github.com/steipete/CodexBar) | Show usage stats for OpenAI Codex and Claude Code, without having to login.   | ⭐️23055 |
-| [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar) | A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance.   | ⭐️1574 |
-| [thaw-app/Thaw](https://github.com/thaw-app/Thaw) | The open source menu bar manager   | ⭐️12610 |
-| [TypeWhisper/typewhisper-mac](https://github.com/TypeWhisper/typewhisper-mac) | Local speech-to-text for macOS  on-device AI, fully private, optional cloud   | ⭐️1909 |
-| [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | Free and open-source macOS menu bar toolkit.   | ⭐️33522 |
-| [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) | A modern Wine wrapper for macOS built with SwiftUI (*archived*)  | ⭐️15065 |
-| [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) | macOS Adobe apps download & installer   | ⭐️3643 |
-| [xykong/flux-markdown](https://github.com/xykong/flux-markdown) | Markdown Preview Enhanced for macOS QuickLook   | ⭐️1317 |
+| [steipete/CodexBar](https://github.com/steipete/CodexBar) | Show usage stats for OpenAI Codex and Claude Code, without having to login.   | ⭐️23072 |
+| [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar) | A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance.   | ⭐️1573 |
+| [thaw-app/Thaw](https://github.com/thaw-app/Thaw) | The open source menu bar manager   | ⭐️12631 |
+| [TypeWhisper/typewhisper-mac](https://github.com/TypeWhisper/typewhisper-mac) | Local speech-to-text for macOS  on-device AI, fully private, optional cloud   | ⭐️1913 |
+| [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | Free and open-source macOS menu bar toolkit.   | ⭐️33744 |
+| [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) | A modern Wine wrapper for macOS built with SwiftUI (*archived*)  | ⭐️15066 |
+| [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) | macOS Adobe apps download & installer   | ⭐️3646 |
+| [xykong/flux-markdown](https://github.com/xykong/flux-markdown) | Markdown Preview Enhanced for macOS QuickLook   | ⭐️1323 |
 ## Text
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) | DNS-Blocklists: For a better internet - keep the internet clean!   | ⭐️28493 |
+| [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) | DNS-Blocklists: For a better internet - keep the internet clean!   | ⭐️28563 |
 ## TypeScript
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [actions/checkout](https://github.com/actions/checkout) | Action for checking out a repo   | ⭐️9009 |
-| [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) | Selfhosted Netflix   | ⭐️2345 |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent.   | ⭐️225367 |
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.   | ⭐️154936 |
+| [actions/checkout](https://github.com/actions/checkout) | Action for checking out a repo   | ⭐️9010 |
+| [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) | Selfhosted Netflix   | ⭐️2344 |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent.   | ⭐️225632 |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.   | ⭐️155061 |
 | [aottr/ottrbox](https://github.com/aottr/ottrbox) | A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.   | ⭐️113 |
 | [audioling/audioling](https://github.com/audioling/audioling) | Audio player with a focus on self-hosted music server support (*archived*)  | ⭐️908 |
-| [bitwarden/clients](https://github.com/bitwarden/clients) | Bitwarden client apps (web, browser extension, desktop, and cli).   | ⭐️14177 |
-| [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) | Self-hosted JMAP webmail for Stalwart Mail Server. Mail, calendar, contacts, and files in one client.   | ⭐️1443 |
-| [calcom/cal.diy](https://github.com/calcom/cal.diy) | Scheduling infrastructure for absolutely everyone.   | ⭐️49790 |
+| [bitwarden/clients](https://github.com/bitwarden/clients) | Bitwarden client apps (web, browser extension, desktop, and cli).   | ⭐️14181 |
+| [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) | Self-hosted JMAP webmail for Stalwart Mail Server. Mail, calendar, contacts, and files in one client.   | ⭐️1445 |
+| [calcom/cal.diy](https://github.com/calcom/cal.diy) | Scheduling infrastructure for absolutely everyone.   | ⭐️49828 |
 | [ChenglongMa/zoplicate](https://github.com/ChenglongMa/zoplicate) | A plugin that does one thing only: Detect and manage duplicate items in Zotero.   | ⭐️1029 |
-| [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.    | ⭐️9092 |
-| [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) | Smooth scroll as it should be   | ⭐️17141 |
+| [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.    | ⭐️9094 |
+| [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) | Smooth scroll as it should be   | ⭐️17156 |
 | [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) | dyrector.io is a self-hosted continuous delivery & deployment platform with version management.   | ⭐️1846 |
-| [earendil-works/pi](https://github.com/earendil-works/pi) | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI   | ⭐️120706 |
+| [earendil-works/pi](https://github.com/earendil-works/pi) | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI   | ⭐️120981 |
 | [egoist/chatwise-releases](https://github.com/egoist/chatwise-releases) | The fastest AI Chatbot for any LLM   | ⭐️1374 |
 | [egoist/whispo](https://github.com/egoist/whispo) | AI-powered dictation tool   | ⭐️460 |
-| [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.   | ⭐️91343 |
+| [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.   | ⭐️91670 |
 | [element-hq/element-web](https://github.com/element-hq/element-web) | A glossy Matrix collaboration client for the web.   | ⭐️13640 |
 | [elementor/angie-acf-mcp](https://github.com/elementor/angie-acf-mcp) |    | ⭐️8 |
 | [elementor/angie-sdk](https://github.com/elementor/angie-sdk) | Add Angie Chat Anywhere   | ⭐️28 |
-| [Emanuele-web04/synara](https://github.com/Emanuele-web04/synara) | The best place to build with your AI sub   | ⭐️2189 |
+| [Emanuele-web04/synara](https://github.com/Emanuele-web04/synara) | The best place to build with your AI sub   | ⭐️2193 |
 | [Equicord/Equibop](https://github.com/Equicord/Equibop) | Equibop is a custom Discord App aiming to give you better performance and improve linux support   | ⭐️814 |
-| [Equicord/Equicord](https://github.com/Equicord/Equicord) | The other cutest Discord client mod   | ⭐️1830 |
-| [evolution-foundation/evolution-api](https://github.com/evolution-foundation/evolution-api) | Evolution API is an open-source WhatsApp integration API   | ⭐️10062 |
-| [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn like diagrams   | ⭐️135318 |
-| [expo/expo](https://github.com/expo/expo) | An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.   | ⭐️53392 |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥   | ⭐️199614 |
-| [flick9000/winscript](https://github.com/flick9000/winscript) | Open-source tool to build your Windows script from scratch. It includes debloat, privacy, performance & app installing scripts.   | ⭐️2994 |
-| [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) | :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.   | ⭐️17998 |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA   | ⭐️140703 |
+| [Equicord/Equicord](https://github.com/Equicord/Equicord) | The other cutest Discord client mod   | ⭐️1831 |
+| [evolution-foundation/evolution-api](https://github.com/evolution-foundation/evolution-api) | Evolution API is an open-source WhatsApp integration API   | ⭐️10067 |
+| [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn like diagrams   | ⭐️135375 |
+| [expo/expo](https://github.com/expo/expo) | An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.   | ⭐️53406 |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥   | ⭐️199942 |
+| [flick9000/winscript](https://github.com/flick9000/winscript) | Open-source tool to build your Windows script from scratch. It includes debloat, privacy, performance & app installing scripts.   | ⭐️2995 |
+| [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) | :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.   | ⭐️18000 |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA   | ⭐️140866 |
 | [gemini-cli-extensions/nanobanana](https://github.com/gemini-cli-extensions/nanobanana) |    | ⭐️1130 |
-| [getagentseal/codeburn](https://github.com/getagentseal/codeburn) | Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn   | ⭐️11726 |
-| [getwud/wud](https://github.com/getwud/wud) | Keep your containers up-to-date!   | ⭐️4199 |
-| [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) | A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.   | ⭐️12599 |
-| [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) | 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.   | ⭐️9033 |
-| [homarr-labs/homarr](https://github.com/homarr-labs/homarr) | A modern and easy to use dashboard. 80+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.   | ⭐️5308 |
-| [hydralauncher/hydra](https://github.com/hydralauncher/hydra) | Hydra Launcher is an open-source gaming platform created to be the single tool that you need   | ⭐️17656 |
-| [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.   | ⭐️28518 |
-| [immich-app/immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution.   | ⭐️118500 |
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world   | ⭐️143548 |
-| [jeffvli/feishin](https://github.com/jeffvli/feishin) | A modern self-hosted music player.   | ⭐️10360 |
+| [getagentseal/codeburn](https://github.com/getagentseal/codeburn) | Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn   | ⭐️11736 |
+| [getwud/wud](https://github.com/getwud/wud) | Keep your containers up-to-date!   | ⭐️4205 |
+| [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) | A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.   | ⭐️12603 |
+| [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) | 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.   | ⭐️9042 |
+| [homarr-labs/homarr](https://github.com/homarr-labs/homarr) | A modern and easy to use dashboard. 80+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.   | ⭐️5318 |
+| [hydralauncher/hydra](https://github.com/hydralauncher/hydra) | Hydra Launcher is an open-source gaming platform created to be the single tool that you need   | ⭐️17668 |
+| [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.   | ⭐️28704 |
+| [immich-app/immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution.   | ⭐️118597 |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world   | ⭐️143632 |
+| [jeffvli/feishin](https://github.com/jeffvli/feishin) | A modern self-hosted music player.   | ⭐️10373 |
 | [keksiqc/shako](https://github.com/keksiqc/shako) | Self-hostable link-in-bio page   | ⭐️102 |
-| [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) | Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨   | ⭐️15798 |
+| [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) | Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨   | ⭐️15804 |
 | [kyantech/Palmr](https://github.com/kyantech/Palmr) | 🌴 Palmr. is an open-source file-sharing platform focused on privacy and security. It enables users to upload, manage, and share files with features like password protection, custom links, and access control without tracking or limitations. Designed for seamless and secure sharing, Palmr. is completely free.   | ⭐️2394 |
-| [makeplane/plane](https://github.com/makeplane/plane) | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.   | ⭐️62139 |
-| [mantinedev/mantine](https://github.com/mantinedev/mantine) | A fully featured React components library   | ⭐️31919 |
+| [makeplane/plane](https://github.com/makeplane/plane) | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.   | ⭐️62190 |
+| [mantinedev/mantine](https://github.com/mantinedev/mantine) | A fully featured React components library   | ⭐️31925 |
 | [marcusaureliusdigital/elementor-ai-site-generator](https://github.com/marcusaureliusdigital/elementor-ai-site-generator) | *beta" AI-powered Elementor Pro site kit & landing page builder. Describe what you want, get importable JSON. Supports Claude Opus 4.7 and Gemini 3.1 Pro.   | ⭐️7 |
-| [miantiao-me/Sink](https://github.com/miantiao-me/Sink) | ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.   | ⭐️7256 |
+| [miantiao-me/Sink](https://github.com/miantiao-me/Sink) | ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.   | ⭐️7261 |
 | [mishamyrt/nuga-app](https://github.com/mishamyrt/nuga-app) | ⌨️ NuPhy® keyboard configurator (*archived*)  | ⭐️63 |
-| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries.   | ⭐️441985 |
-| [motiondivision/motion](https://github.com/motiondivision/motion) | A modern animation library for React and JavaScript   | ⭐️34997 |
-| [n8n-io/n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.   | ⭐️209802 |
-| [nolimits4web/swiper](https://github.com/nolimits4web/swiper) | Most modern mobile touch slider with hardware accelerated transitions   | ⭐️41907 |
-| [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) | Complete open-source monitoring and observability platform.   | ⭐️7802 |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞    | ⭐️394169 |
-| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | The open-source CapCut alternative   | ⭐️97681 |
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | The open-source app everyone uses to manage agents at work   | ⭐️112127 |
+| [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries.   | ⭐️445187 |
+| [motiondivision/motion](https://github.com/motiondivision/motion) | A modern animation library for React and JavaScript   | ⭐️35013 |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.   | ⭐️209893 |
+| [nolimits4web/swiper](https://github.com/nolimits4web/swiper) | Most modern mobile touch slider with hardware accelerated transitions   | ⭐️41906 |
+| [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) | Complete open-source monitoring and observability platform.   | ⭐️7803 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞    | ⭐️394229 |
+| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | The open-source CapCut alternative   | ⭐️97875 |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | The open-source app everyone uses to manage agents at work   | ⭐️112458 |
 | [parula-app/parula](https://github.com/parula-app/parula) | Parula - New full-featured desktop email, chat and video conference client   | ⭐️134 |
-| [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) | Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock private/unreleased features, and much more.  Supports both native/npm installs on all platforms.   | ⭐️2602 |
+| [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) | Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock private/unreleased features, and much more.  Supports both native/npm installs on all platforms.   | ⭐️2603 |
 | [plevands/epson-thermal-printer](https://github.com/plevands/epson-thermal-printer) | Library for Epson thermal printer integration with PDF support and React hooks.   | ⭐️5 |
-| [portainer/portainer](https://github.com/portainer/portainer) | Making Docker and Kubernetes management easy.   | ⭐️38789 |
-| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 🎥      Make videos programmatically with React   | ⭐️71595 |
-| [RiDDiX/home-assistant-matter-hub](https://github.com/RiDDiX/home-assistant-matter-hub) | Publish your Home-Assistant Instance using Matter.   | ⭐️1346 |
+| [portainer/portainer](https://github.com/portainer/portainer) | Making Docker and Kubernetes management easy.   | ⭐️38797 |
+| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 🎥      Make videos programmatically with React   | ⭐️71866 |
+| [RiDDiX/home-assistant-matter-hub](https://github.com/RiDDiX/home-assistant-matter-hub) | Publish your Home-Assistant Instance using Matter.   | ⭐️1349 |
 | [royshil/obs-mcp](https://github.com/royshil/obs-mcp) | An MCP server for OBS   | ⭐️161 |
-| [seerr-team/seerr](https://github.com/seerr-team/seerr) | Open-source media request and discovery manager for Jellyfin, Plex, and Emby.   | ⭐️13144 |
-| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.   | ⭐️127601 |
+| [seerr-team/seerr](https://github.com/seerr-team/seerr) | Open-source media request and discovery manager for Jellyfin, Plex, and Emby.   | ⭐️13153 |
+| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.   | ⭐️127683 |
 | [softprops/action-gh-release](https://github.com/softprops/action-gh-release) | 📦 :octocat: GitHub Action for creating GitHub Releases   | ⭐️5793 |
 | [solidtime-io/solidtime-desktop](https://github.com/solidtime-io/solidtime-desktop) | solidtime timetracker desktop app for macOS, Windows and Linux   | ⭐️367 |
-| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere   | ⭐️95991 |
-| [supabase/supabase](https://github.com/supabase/supabase) | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.   | ⭐️114648 |
+| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere   | ⭐️96097 |
+| [supabase/supabase](https://github.com/supabase/supabase) | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.   | ⭐️114697 |
 | [syt2/zotero-addons](https://github.com/syt2/zotero-addons) | Zotero Add-on Market  | Zotero插件市场 | Browsing and installing plugins within Zotero   | ⭐️1843 |
-| [tester-army/e2e](https://github.com/tester-army/e2e) | Next generation e2e testing framework for web and mobile apps.   | ⭐️13458 |
-| [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) | On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects.   | ⭐️4517 |
-| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.    | ⭐️74318 |
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | The open alternative to Salesforce, designed for AI.   | ⭐️60624 |
+| [tester-army/e2e](https://github.com/tester-army/e2e) | Next generation e2e testing framework for web and mobile apps.   | ⭐️13514 |
+| [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) | On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects.   | ⭐️4523 |
+| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.    | ⭐️74373 |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | The open alternative to Salesforce, designed for AI.   | ⭐️60675 |
 | [use-novamira/novamira-cli](https://github.com/use-novamira/novamira-cli) | REST-first command-line client for Novamira WordPress Abilities   | ⭐️6 |
-| [usesend/useSend](https://github.com/usesend/useSend) | Open source alternative to Resend, Sendgrid, Postmark etc.   | ⭐️4785 |
+| [usesend/useSend](https://github.com/usesend/useSend) | Open source alternative to Resend, Sendgrid, Postmark etc.   | ⭐️4790 |
 | [vapvarun/elementor-mcp](https://github.com/vapvarun/elementor-mcp) | MCP server for generating Elementor Pro landing pages — 106 widgets, color schemes, full theme builder support   | ⭐️4 |
 | [Vuemony/vue-after-free](https://github.com/Vuemony/vue-after-free) | PlayStation Vue code execution exploit   | ⭐️1058 |
-| [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | Create polished demo videos without editing skills. Mac/Windows/Linux   | ⭐️36291 |
+| [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | Create polished demo videos without editing skills. Mac/Windows/Linux   | ⭐️36364 |
 | [WordPress/gutenberg](https://github.com/WordPress/gutenberg) | The Block Editor project for WordPress and beyond. Plugin is available from the official repository.   | ⭐️11787 |
 | [WordPress/openstation](https://github.com/WordPress/openstation) | OpenStation is a WordPress plugin that turns /wp-admin into a desktop-style interface with movable windows and a dock menu. It’s opt-in per user, doesn’t change core, and fully reverts on deactivation.   | ⭐️280 |
 ## Unknown
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
 | [AI1offs/Elementor-json-files](https://github.com/AI1offs/Elementor-json-files) | Documentation to create element or json files with AI   | ⭐️2 |
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers   | ⭐️334944 |
-| [BehiSecc/VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) | This skill helps Claude write secure code and prevent common vulnerabilities.   | ⭐️1398 |
+| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers   | ⭐️335292 |
+| [BehiSecc/VibeSec-Skill](https://github.com/BehiSecc/VibeSec-Skill) | This skill helps Claude write secure code and prevent common vulnerabilities.   | ⭐️1400 |
 | [browser-use/awesome-prompts](https://github.com/browser-use/awesome-prompts) | Table of awesome Browser Use prompts   | ⭐️967 |
 | [dreulavelle/Prowlarr-Indexers](https://github.com/dreulavelle/Prowlarr-Indexers) | Prowlarr Indexers used by Cardigann   | ⭐️361 |
 | [egoist/whispo-releases](https://github.com/egoist/whispo-releases) |    | ⭐️3 |
 | [Gcenx/macOS_Wine_builds](https://github.com/Gcenx/macOS_Wine_builds) | The Official Winehq macOS Packages   | ⭐️805 |
-| [GoldHEN/GoldHEN](https://github.com/GoldHEN/GoldHEN) | PS4 Homebrew Enabler   | ⭐️3241 |
+| [GoldHEN/GoldHEN](https://github.com/GoldHEN/GoldHEN) | PS4 Homebrew Enabler   | ⭐️3248 |
 | [GoldHEN/ps4debug](https://github.com/GoldHEN/ps4debug) | PlayStation 4 Debugger   | ⭐️123 |
-| [google/material-design-icons](https://github.com/google/material-design-icons) | Material Design icons by Google (Material Symbols)   | ⭐️54250 |
-| [jackmoore7/tailscale-synology-ssl](https://github.com/jackmoore7/tailscale-synology-ssl) | How to use Tailscale with a custom domain via Cloudflare and reverse proxy on a Synology NAS   | ⭐️81 |
+| [google/material-design-icons](https://github.com/google/material-design-icons) | Material Design icons by Google (Material Symbols)   | ⭐️54251 |
+| [jackmoore7/tailscale-synology-ssl](https://github.com/jackmoore7/tailscale-synology-ssl) | How to use Tailscale with a custom domain via Cloudflare and reverse proxy on a Synology NAS   | ⭐️82 |
 | [marceltannich/wceu_2025](https://github.com/marceltannich/wceu_2025) | All resources from my talk, “Automating WordPress Setup with Modern AI Tools,” presented at WordCamp Europe 2025 in Basel, Switzerland.   | ⭐️11 |
-| [ngosang/trackerslist](https://github.com/ngosang/trackerslist) | Updated list of public BitTorrent trackers   | ⭐️55626 |
+| [ngosang/trackerslist](https://github.com/ngosang/trackerslist) | Updated list of public BitTorrent trackers   | ⭐️55634 |
 | [ohmybahgosh/RockYou2021.txt](https://github.com/ohmybahgosh/RockYou2021.txt) | RockYou2021.txt is a MASSIVE WORDLIST compiled of various other wordlists.  RockYou2021.txt DOES NOT CONTAIN USER:PASS logins!     | ⭐️1023 |
-| [Sikarugir-App/Sikarugir](https://github.com/Sikarugir-App/Sikarugir) | A tool used to make user-friendly wine wrapped ports of Windows software for macOS.   | ⭐️4005 |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]   | ⭐️533467 |
+| [Sikarugir-App/Sikarugir](https://github.com/Sikarugir-App/Sikarugir) | A tool used to make user-friendly wine wrapped ports of Windows software for macOS.   | ⭐️4014 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]   | ⭐️534115 |
 | [toineenzo/stars](https://github.com/toineenzo/stars) | Check out the stars @toineenzo gave   | ⭐️1 |
-| [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code   | ⭐️15741 |
-| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.   | ⭐️256767 |
+| [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code   | ⭐️15749 |
+| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.   | ⭐️257041 |
 | [TryCrab/releases](https://github.com/TryCrab/releases) | Download Crab for macOS, Windows, and Linux   | ⭐️2 |
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.   | ⭐️126072 |
-| [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) | Unlock your displays on your Mac. Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. More info -  betterdisplay.pro/guide   | ⭐️34439 |
-| [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) | A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.   | ⭐️14212 |
-| [yokoffing/filterlists](https://github.com/yokoffing/filterlists) | Collection of blocklists to fill in the gaps   | ⭐️3654 |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.   | ⭐️126236 |
+| [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) | Unlock your displays on your Mac. Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. More info -  betterdisplay.pro/guide   | ⭐️34453 |
+| [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) | A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.   | ⭐️14451 |
+| [yokoffing/filterlists](https://github.com/yokoffing/filterlists) | Collection of blocklists to fill in the gaps   | ⭐️3657 |
 ## Vue
 | Name  | Description  | Stars  |
 | ----- | ----- |----: |
-| [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX.    | ⭐️41159 |
+| [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | Collection of handy online tools for developers, with great UX.    | ⭐️41164 |
 | [montoulieu/ableton-live-downloader](https://github.com/montoulieu/ableton-live-downloader) | 🎹 Downloads the desired 64-bit installer from any version of Ableton Live 11, 10, and 9.   | ⭐️51 |
-| [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) | The sleekest looking WEBUI for qBittorrent made with Vuejs!   | ⭐️7036 |
+| [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) | The sleekest looking WEBUI for qBittorrent made with Vuejs!   | ⭐️7041 |
